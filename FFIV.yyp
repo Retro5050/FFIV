@@ -111,6 +111,14 @@
             }
         },
         {
+            "Key": "91d2c559-2687-45a4-b0f3-de3599af8702",
+            "Value": {
+                "id": "fc47e8ef-9d1d-4779-bf9a-a06f480b569d",
+                "resourcePath": "objects\\duplicate\\duplicate.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "9e721e65-d9bd-4dac-86d7-94fa1ac72e5f",
             "Value": {
                 "id": "a6367b72-93f6-4ebe-8088-04e22691ae65",
