@@ -6,7 +6,8 @@
     "children": [
         "7f0fab0c-3e70-4ae8-8545-a1768bfcc355",
         "cbc0e113-a3f2-4640-a451-a1ce6aa25a9d",
-        "23d6e456-0f91-4afc-a33c-2e2ab92fd913"
+        "23d6e456-0f91-4afc-a33c-2e2ab92fd913",
+        "3a178b95-f472-49ca-8924-0da7489b7a57"
     ],
     "filterType": "GMSprite",
     "folderName": "Player Map Sprites",
