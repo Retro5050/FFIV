@@ -1,26 +1,23 @@
 image_speed = 0;
-var _animation_speed = _animation_speed;
+var _animation_speed = 2;
+var _x_input = keyboard_check(vk_right) - keyboard_check(vk_left);
+var _y_input = keyboard_check(vk_down) - keyboard_check(vk_up);
+var _input_direction = point_direction(0, 0, _x_input, _y_input);
 
-if keyboard_check(vk_right) and not place_meeting(x+speed_, y, o_solid) {
-	x+=speed_;
-	sprite_index = s_knight_run_right;
+direction_facing_ = round(_input_direction/90);
+if direction_facing_ == 4 {
+	direction_facing_ = 0;
+}
+
+if _x_input != 0 and not place_meeting(x+speed_*_x_input, y, o_solid) {
+	x+=speed_*_x_input;
+	image_speed = _animation_speed;
+	image_xscale = _x_input;
+}
+
+if _y_input != 0 and not place_meeting(x, y+speed_*_y_input, o_solid) {
+	y+=speed_*_y_input;
 	image_speed = _animation_speed;
 }
 
-if keyboard_check(vk_left) and not place_meeting(x-speed_, y, o_solid) {
-	x-=speed_;
-	sprite_index = s_knight_run_left;
-	image_speed = _animation_speed;
-}
-
-if keyboard_check(vk_up) and not place_meeting(x, y-speed_, o_solid) {
-	y-=speed_;
-	sprite_index = s_knight_run_up;
-	image_speed = _animation_speed;
-}
-
-if keyboard_check(vk_down) and not place_meeting(x, y+speed_, o_solid) {
-	y+=speed_;
-	sprite_index = s_knight_run_down;
-	image_speed = _animation_speed;
-}
+sprite_index = sprite_[player.move, direction_facing_];
