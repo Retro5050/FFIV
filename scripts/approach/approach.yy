@@ -1,8 +1,8 @@
 {
-    "id": "2347a918-2eb4-4a3a-a948-c77f6a307a02",
+    "id": "11820858-b696-43bc-b2c6-b2577ede5f6b",
     "modelName": "GMScript",
     "mvc": "1.0",
-    "name": "apply_friction_to_movement",
+    "name": "approach",
     "IsCompatibility": false,
     "IsDnD": false
 }

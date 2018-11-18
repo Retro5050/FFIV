@@ -39,6 +39,44 @@
     },
     "resources": [
         {
+            "Key": "11820858-b696-43bc-b2c6-b2577ede5f6b",
+            "Value": {
+                "id": "86463e01-165e-451e-be83-f87cb199c0d4",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "scripts\/approach\/approach.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "1223cf9f-9860-40aa-a670-58c17044724a",
+            "Value": {
+                "id": "216cb834-052e-401a-9a96-f90ae6ce5af4",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "scripts\/get_direction_facing\/get_direction_facing.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "14e96875-da97-4bc8-8efa-36861d15154c",
             "Value": {
                 "id": "955858a0-4631-4768-a100-2f345e2657c3",
@@ -72,7 +110,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "scripts\/apply_friction_to_movement\/apply_friction_to_movement.yy",
+                "resourcePath": "scripts\/apply_friction_to_movement_entity\/apply_friction_to_movement_entity.yy",
                 "resourceType": "GMScript"
             }
         },
@@ -725,10 +763,12 @@
     ],
     "script_order": [
         "5237e6f2-b099-4040-971a-a9b38bd5145c",
-        "2347a918-2eb4-4a3a-a948-c77f6a307a02",
-        "9eaba82e-4ced-48fb-88cc-e693e78972a3",
         "14e96875-da97-4bc8-8efa-36861d15154c",
-        "90d05888-e31f-4846-98ac-3a83b5de3e24"
+        "9eaba82e-4ced-48fb-88cc-e693e78972a3",
+        "90d05888-e31f-4846-98ac-3a83b5de3e24",
+        "2347a918-2eb4-4a3a-a948-c77f6a307a02",
+        "1223cf9f-9860-40aa-a670-58c17044724a",
+        "11820858-b696-43bc-b2c6-b2577ede5f6b"
     ],
     "tutorial": ""
 }
