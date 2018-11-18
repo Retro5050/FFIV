@@ -1,5 +1,5 @@
 {
-    "id": "201cf467-0d9b-4e9f-88a1-c869efc91cce",
+    "id": "929dde8d-6320-4b9c-89c7-2c1ee3b5b966",
     "modelName": "GMObject",
     "mvc": "1.0",
     "name": "o_solid",
