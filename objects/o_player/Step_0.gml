@@ -19,3 +19,8 @@ else {
 
 sprite_index = sprite_[player.move, direction_facing_];
 move_movement_entity(false);
+
+
+// _x_input is -1 or 1, depending on if he's facing to the right or left.
+// _y_input is -1 or 1, depending on if he's facing up or down
+// keyboard_check_pressed is only true when you first hit the button (initally pressed)
