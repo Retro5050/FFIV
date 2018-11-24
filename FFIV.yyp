@@ -39,6 +39,25 @@
     },
     "resources": [
         {
+            "Key": "0032f58c-b566-4aa6-b54c-4d6888d06360",
+            "Value": {
+                "id": "67cae1e9-197a-4ac6-9a16-c00520db6381",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/s_battle_underworld\/s_battle_underworld.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "005ed86d-9165-461a-b1b5-8e3bfb15f405",
             "Value": {
                 "id": "e70aaeb7-e44f-4855-b56a-580cba56f835",
@@ -58,6 +77,25 @@
             }
         },
         {
+            "Key": "03d76b79-f4e4-4fd6-90bb-3a9ce5540be2",
+            "Value": {
+                "id": "40cab372-4e2f-480c-877b-07ac2e1a9038",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/s_battle_final_battle\/s_battle_final_battle.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "09f49369-ef7f-4df3-b4b4-769c080c5f72",
             "Value": {
                 "id": "a9a1335e-9f68-40ef-b368-fce9e7ac31d7",
@@ -74,6 +112,25 @@
                 ],
                 "resourcePath": "scripts\/round_n\/round_n.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "0f743624-4044-4d73-bf8c-40df5ebbcff5",
+            "Value": {
+                "id": "fb690356-27da-47c2-bec3-8d601f26e8dc",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/s_battle_giant\/s_battle_giant.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -134,6 +191,25 @@
             }
         },
         {
+            "Key": "12f4df23-c06e-470c-8ad2-4bd20264ea9e",
+            "Value": {
+                "id": "5c2e0565-f04d-444f-987e-a1763991fec9",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/s_battle_edward_scene\/s_battle_edward_scene.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "130748bf-015d-48d5-b86e-d464761aea82",
             "Value": {
                 "id": "0a88e4e5-4ff0-4970-b512-10a8739b8a01",
@@ -169,6 +245,25 @@
                 ],
                 "resourcePath": "scripts\/move_movement_entity\/move_movement_entity.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "1be7cd56-dd85-429e-b131-b59b7c84f580",
+            "Value": {
+                "id": "96cc3244-2b5d-4135-92b4-d86736a0cbbc",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/s_battle_castle\/s_battle_castle.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -305,6 +400,25 @@
             }
         },
         {
+            "Key": "2a4d9ded-003f-48f9-8ef6-25b2a866d911",
+            "Value": {
+                "id": "2ea36b85-8316-409d-8a08-91ba7b27746e",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/s_battle_moon_cave\/s_battle_moon_cave.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "2baeb590-89b7-4594-b93e-3b244a8cfdb2",
             "Value": {
                 "id": "3b85a219-e7eb-469c-a071-c20cc018a91e",
@@ -324,6 +438,25 @@
             }
         },
         {
+            "Key": "2d0b16b2-604c-49d1-82e0-205be5011531",
+            "Value": {
+                "id": "8eff387e-6e6c-47dd-88ca-c9248fbf3c51",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/s_battle_glass_floor\/s_battle_glass_floor.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "317d0bb0-5a13-4150-ab18-055ecc8e5fdc",
             "Value": {
                 "id": "c3722d2e-bc81-454d-85f2-978109b8aae1",
@@ -340,6 +473,25 @@
                 ],
                 "resourcePath": "views\/317d0bb0-5a13-4150-ab18-055ecc8e5fdc.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "341b337e-4066-49ed-b88a-327740f4c9c8",
+            "Value": {
+                "id": "e1a23c8e-a359-49f2-8a30-da371a0c9ded",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/s_battle_mountain\/s_battle_mountain.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -416,6 +568,63 @@
                 ],
                 "resourcePath": "sprites\/s_overworld_13\/s_overworld_13.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "480cb07e-5c0b-4c23-97a2-1e804f0b59c8",
+            "Value": {
+                "id": "3a29a8fc-d6aa-4a99-8a02-af70b64d13f7",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/s_battle_desert\/s_battle_desert.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "4a677d91-30b8-464d-a152-5e3c4be74fff",
+            "Value": {
+                "id": "da39b8c2-3930-4c36-8726-2fe80e3d9d22",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/s_battle_cave\/s_battle_cave.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "4aa0c691-ada6-4bfc-bd7f-b92f68073635",
+            "Value": {
+                "id": "cb3c4f6f-be1b-4fbd-b1d5-a61372aa380f",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "views\/4aa0c691-ada6-4bfc-bd7f-b92f68073635.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -625,6 +834,25 @@
                 ],
                 "resourcePath": "views\/682612e8-8ec7-495a-b9b0-6441b2113499.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "68585037-7b30-4cb8-aa2c-5d867e5dd45a",
+            "Value": {
+                "id": "c9ad8f4c-7c1a-4978-859c-dccf0cc76b2f",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/s_battle_underworld_cave\/s_battle_underworld_cave.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -970,6 +1198,25 @@
             }
         },
         {
+            "Key": "a31b315c-863d-48a6-9ae2-dc19fbf27ce8",
+            "Value": {
+                "id": "2c036326-6530-4cc5-a8bf-0131758510da",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/s_battle_forest\/s_battle_forest.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a3e1e375-470c-4530-b0b1-ff6c19f9bb3f",
             "Value": {
                 "id": "e52977f4-b119-42e5-a68c-207f6cb8e26e",
@@ -1100,6 +1347,25 @@
                 ],
                 "resourcePath": "views\/b78539af-ac70-4fd3-876f-1e20e9353374.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b9cc87d1-4f41-4097-be9b-424b305db140",
+            "Value": {
+                "id": "a2828318-11b2-4d55-a4d6-99efdbb1aba9",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/s_battle_moon\/s_battle_moon.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -1293,6 +1559,44 @@
             }
         },
         {
+            "Key": "cf0c4eac-c792-4226-88df-e60578f4cf0a",
+            "Value": {
+                "id": "3b5e0924-f717-4a4e-9db2-6a3f3c2edb69",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/s_battle_airship\/s_battle_airship.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "cf2cb1c4-91c4-4bb0-b49d-f1b98035ebcf",
+            "Value": {
+                "id": "04655bcb-87af-4571-a142-1d332aac2861",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sprite42\/sprite42.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "d63eca55-fddf-435f-8ca9-0398951f442f",
             "Value": {
                 "id": "466295fd-8e38-4e21-b877-40517448cb7c",
@@ -1350,6 +1654,25 @@
             }
         },
         {
+            "Key": "dc635206-ee25-4088-b173-1c10c39dbbf9",
+            "Value": {
+                "id": "ecdb3692-0e38-4f95-afeb-a304cdf0cf5c",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/s_battle_water_cave\/s_battle_water_cave.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "dd9c5328-1396-4e41-80c7-9f8502b07008",
             "Value": {
                 "id": "766d92dd-500c-4b2d-995c-abb581043bae",
@@ -1366,6 +1689,25 @@
                 ],
                 "resourcePath": "objects\/o_knight\/o_knight.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "e1055ff2-2b29-44fe-b136-36e096f56010",
+            "Value": {
+                "id": "403bae81-cf95-4640-abb6-60812cd67496",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/s_battle_magnet_cave\/s_battle_magnet_cave.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -1575,6 +1917,25 @@
                 ],
                 "resourcePath": "views\/f66e48d2-01c6-43be-9df6-c80599ccb886.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f7981d6f-388f-4bdb-90ad-2fae537735d5",
+            "Value": {
+                "id": "4295def6-19a0-42c5-ae65-9858288550e9",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/s_battle_plains\/s_battle_plains.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
