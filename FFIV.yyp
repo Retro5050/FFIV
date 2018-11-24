@@ -134,6 +134,25 @@
             }
         },
         {
+            "Key": "130748bf-015d-48d5-b86e-d464761aea82",
+            "Value": {
+                "id": "0a88e4e5-4ff0-4970-b512-10a8739b8a01",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/s_overworld_9\/s_overworld_9.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "14e96875-da97-4bc8-8efa-36861d15154c",
             "Value": {
                 "id": "955858a0-4631-4768-a100-2f345e2657c3",
@@ -150,6 +169,63 @@
                 ],
                 "resourcePath": "scripts\/move_movement_entity\/move_movement_entity.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "200e0d77-93a7-4591-8fae-35003444a798",
+            "Value": {
+                "id": "282a9496-de9e-4342-b148-a86afde91ddf",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/s_overworld_8\/s_overworld_8.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "21c8476b-8bf9-4770-bc3e-4b3c60aa3aa6",
+            "Value": {
+                "id": "91df34f2-9550-4ed9-b3b7-2da9f292d309",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/s_overworld_10\/s_overworld_10.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "2253800e-2de4-46c2-ba45-2c6d40270eeb",
+            "Value": {
+                "id": "21619eed-04bb-498d-bb12-c9d62539f14b",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/s_overworld_7\/s_overworld_7.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -188,6 +264,25 @@
                 ],
                 "resourcePath": "sprites\/s_knight_run_left\/s_knight_run_left.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "26abee7e-ab47-4519-8ca7-b99dfbe64978",
+            "Value": {
+                "id": "ac5cb2b8-12cd-4872-b6bc-859c7296eb1e",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/o_overworld_1\/o_overworld_1.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -305,6 +400,25 @@
             }
         },
         {
+            "Key": "3e7761c1-015a-483a-94a9-f41cd2c6fbfa",
+            "Value": {
+                "id": "96c69d18-f8ea-4e85-b7cd-562a2bfbfb47",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/s_overworld_13\/s_overworld_13.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "4e270c62-c828-42c8-8fe9-0d3174ec333e",
             "Value": {
                 "id": "8ecfb1ee-4325-47b3-8988-5eb7dc28b907",
@@ -324,6 +438,44 @@
             }
         },
         {
+            "Key": "50796c61-9c7b-413d-9ae9-ee8aa7c08824",
+            "Value": {
+                "id": "6f9b5a32-c49d-4c2b-9db3-6c6d3593749c",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/o_overworld_9\/o_overworld_9.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "51343854-27e0-4fda-bf5c-c22eec1bc1d0",
+            "Value": {
+                "id": "b0186138-1fdc-4844-85de-c28608dcadfa",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/o_overworld_7\/o_overworld_7.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "5237e6f2-b099-4040-971a-a9b38bd5145c",
             "Value": {
                 "id": "387b8cc3-1d58-4924-ad8f-0cfc9ff6b854",
@@ -340,6 +492,101 @@
                 ],
                 "resourcePath": "scripts\/initialize_movement_entity\/initialize_movement_entity.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "56ba5510-5f82-4f2d-9561-ecb62b96246c",
+            "Value": {
+                "id": "fbf97da3-d5db-4674-a4b3-4510cf1ec2ef",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/s_overworld_16\/s_overworld_16.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "56dc8356-0804-444f-8e29-d581c377e202",
+            "Value": {
+                "id": "989310a7-f139-48db-8a6e-5d90f9ca2fc8",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/s_overworld_4\/s_overworld_4.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "5734da94-0687-4e9c-a0dd-d185289506ef",
+            "Value": {
+                "id": "775b9142-8e8e-48df-b199-00ed8f016735",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/o_overworld_14\/o_overworld_14.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "57d2c5ef-06a6-4e3d-b9f8-fcb81d66fe8e",
+            "Value": {
+                "id": "c819d01d-14ca-4b9d-b2f8-691ff2a20fa8",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/o_overworld_10\/o_overworld_10.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "5ae398b2-a8d5-4333-bd7a-4e6d99158d5c",
+            "Value": {
+                "id": "61319583-ee04-4cf8-9385-e696dae51ea4",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/o_overworld_12\/o_overworld_12.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -400,6 +647,44 @@
             }
         },
         {
+            "Key": "6fdb0889-9317-458b-b498-84e9bab5c491",
+            "Value": {
+                "id": "a4e60bce-970e-4642-8da3-a753b64a9752",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/o_overworld_16\/o_overworld_16.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "7d510211-d33b-4d83-9ac0-b6121d52bd29",
+            "Value": {
+                "id": "0f3c49be-cff4-4430-b16b-d438641af17e",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/o_overworld_13\/o_overworld_13.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "7f0fab0c-3e70-4ae8-8545-a1768bfcc355",
             "Value": {
                 "id": "9d50d184-a1cf-4ab4-9074-471d7001450c",
@@ -416,6 +701,44 @@
                 ],
                 "resourcePath": "sprites\/s_knight_run_up\/s_knight_run_up.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "7f52aab3-d95d-4560-ab08-7ba87d116f65",
+            "Value": {
+                "id": "60abeb26-382f-45ab-8472-0577e3a36b3f",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/o_overworld_5\/o_overworld_5.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "855e85b0-f0cf-493e-bab7-3a19f921acab",
+            "Value": {
+                "id": "1aa3598e-bf84-469a-a95e-ba0ea9e00df7",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "views\/855e85b0-f0cf-493e-bab7-3a19f921acab.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -438,9 +761,9 @@
             }
         },
         {
-            "Key": "887fe3aa-1325-46dd-8261-4d317ec63d4c",
+            "Key": "8840074c-30fa-434b-bb2a-39a4edbd42fa",
             "Value": {
-                "id": "caaff255-83fe-4f99-9203-ef9e6811433a",
+                "id": "83251b0d-a222-47aa-93ea-60d7272bacb4",
                 "modelName": "GMResourceInfo",
                 "mvc": "1.0",
                 "configDeltaFiles": [
@@ -452,8 +775,27 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "sprites\/s_overworld\/s_overworld.yy",
-                "resourceType": "GMSprite"
+                "resourcePath": "objects\/o_overworld_8\/o_overworld_8.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "88ddaed1-ad33-42e4-a239-73ce5b0efa1b",
+            "Value": {
+                "id": "41b62936-8a33-4a9f-a341-985523a3c0c5",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "views\/88ddaed1-ad33-42e4-a239-73ce5b0efa1b.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -476,6 +818,25 @@
             }
         },
         {
+            "Key": "8b2a3664-e8ca-4c28-913c-bf48e6cf35d4",
+            "Value": {
+                "id": "6446d131-8eb8-49f3-aef4-401db2e8abb1",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/s_ocean\/s_ocean.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "8e745fc5-53eb-4f11-970f-3a0d075631a2",
             "Value": {
                 "id": "d00d5cba-53c0-4dc3-902c-6cba350aa6fd",
@@ -492,6 +853,25 @@
                 ],
                 "resourcePath": "views\/8e745fc5-53eb-4f11-970f-3a0d075631a2.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "8eb89fc0-0f14-407a-bbfb-4588feb21445",
+            "Value": {
+                "id": "ce3dc5a3-e024-45cd-8831-3241f11d2dcb",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/o_overworld_15\/o_overworld_15.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -533,9 +913,9 @@
             }
         },
         {
-            "Key": "98bfb9b1-c554-4527-bce7-2c81901a8485",
+            "Key": "95d22a91-2939-45c7-93de-a8ec992fb236",
             "Value": {
-                "id": "007ceda0-8a21-4dbf-bc37-fa5f7118cac0",
+                "id": "5ea93962-d8fc-4c46-a3f7-7598f8345a3b",
                 "modelName": "GMResourceInfo",
                 "mvc": "1.0",
                 "configDeltaFiles": [
@@ -547,7 +927,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "sprites\/sprite8\/sprite8.yy",
+                "resourcePath": "sprites\/s_overworld_3\/s_overworld_3.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -609,6 +989,25 @@
             }
         },
         {
+            "Key": "a44a562a-a045-4941-a9d1-6d6e48be6782",
+            "Value": {
+                "id": "08f19013-2af1-405b-832e-8a5fffa16df3",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/o_overworld_11\/o_overworld_11.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
                 "id": "3eb7b301-ef1d-4fd3-8d5a-2c4e086a2b7b",
@@ -666,6 +1065,25 @@
             }
         },
         {
+            "Key": "b4ee6b4f-53e9-4134-81a8-ef31f6c8a966",
+            "Value": {
+                "id": "556a9f08-4b05-4207-ad05-2bfefa22f5e9",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/s_overworld_12\/s_overworld_12.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "b78539af-ac70-4fd3-876f-1e20e9353374",
             "Value": {
                 "id": "df7b4f5a-7990-4feb-8455-8dfe0a7b37c2",
@@ -682,6 +1100,25 @@
                 ],
                 "resourcePath": "views\/b78539af-ac70-4fd3-876f-1e20e9353374.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "bffc3f1c-37eb-4989-a839-89d54de65490",
+            "Value": {
+                "id": "1923c5b1-cc0a-46bb-b53e-aa174e70fd68",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/o_overworld_3\/o_overworld_3.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -723,6 +1160,25 @@
             }
         },
         {
+            "Key": "c902e5fd-b47a-4c00-a7de-cc315924aa79",
+            "Value": {
+                "id": "d76c6c74-9cf4-4e64-8992-965a87f2e53a",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/s_overworld_6\/s_overworld_6.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c9849086-5b6d-4109-a232-6eb497eb8455",
             "Value": {
                 "id": "f46b105b-b7a6-4058-87da-454eeb633f30",
@@ -758,6 +1214,25 @@
                 ],
                 "resourcePath": "views\/ca01bfe9-c970-4a90-985e-8ecb498547c4.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ca0b3315-ad35-4c2d-a33e-0a96efc6fdab",
+            "Value": {
+                "id": "d781bc83-e5fd-4a14-8fc3-0deab121f386",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/s_overworld_full\/s_overworld_full.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -894,6 +1369,25 @@
             }
         },
         {
+            "Key": "e9b8a67e-d174-48db-8046-a22edaf175cd",
+            "Value": {
+                "id": "c3c283ad-d4d8-48f6-9ddc-922c82c5b4bd",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/s_overworld_2\/s_overworld_2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "eb401bbd-c36b-43ea-ad14-c94e513a34e8",
             "Value": {
                 "id": "1808be89-8de8-4bb1-a2de-262ffca09917",
@@ -910,6 +1404,120 @@
                 ],
                 "resourcePath": "rooms\/r_base\/r_base.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "ebacdfe1-d947-4139-b06a-62a246c17dfc",
+            "Value": {
+                "id": "2d0425bf-e5eb-45ce-aa55-efa255fb7739",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/o_overworld_6\/o_overworld_6.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "ebeb208c-d4aa-421a-b348-9bc5fd1fe3d5",
+            "Value": {
+                "id": "92312ede-0e83-4d90-8c3f-2e20ee3e8e29",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/s_overworld_11\/s_overworld_11.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "ecd55bcb-f8b6-4a74-969a-5b2e70bedad3",
+            "Value": {
+                "id": "279aac9e-9032-4784-b547-a67100207d86",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/s_overworld_5\/s_overworld_5.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "eef0c1ff-88b7-4ec5-a5ae-4bc6d2714862",
+            "Value": {
+                "id": "c0a1f994-1608-4b6a-bc74-42dc789563fe",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/o_overworld_4\/o_overworld_4.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "ef6bf23f-d454-41ea-9060-850e3c6bb619",
+            "Value": {
+                "id": "0f6647fd-24ae-4b36-8a5a-a196edcde97c",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/o_overworld_2\/o_overworld_2.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "f19934cc-8097-4ae7-8866-4ca08e492011",
+            "Value": {
+                "id": "04fd69f1-5a51-4897-a5ba-8f83814979c2",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/s_overworld_14\/s_overworld_14.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -970,6 +1578,25 @@
             }
         },
         {
+            "Key": "fbbebf3e-5e60-4abd-be25-1793bde04174",
+            "Value": {
+                "id": "0bc92587-8168-4e83-86e0-c3155cd90e29",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/s_overworld_1\/s_overworld_1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "fc09e8ac-443f-4a76-ab0a-7f75a8c05f56",
             "Value": {
                 "id": "ab3aa5f1-2775-4d92-99f4-ac53df2b8cda",
@@ -986,6 +1613,25 @@
                 ],
                 "resourcePath": "views\/fc09e8ac-443f-4a76-ab0a-7f75a8c05f56.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "feaa1103-f9d6-4018-810d-d19cff1ee809",
+            "Value": {
+                "id": "4d32f29c-8a58-444a-836c-e45e035d098d",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/s_overworld_15\/s_overworld_15.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
