@@ -21,7 +21,10 @@
         "68585037-7b30-4cb8-aa2c-5d867e5dd45a",
         "0032f58c-b566-4aa6-b54c-4d6888d06360",
         "dc635206-ee25-4088-b173-1c10c39dbbf9",
-        "cf2cb1c4-91c4-4bb0-b49d-f1b98035ebcf"
+        "cf2cb1c4-91c4-4bb0-b49d-f1b98035ebcf",
+        "d8e49667-1559-4cf2-a846-f8a4ab868f6a",
+        "7b805957-9b15-439e-8731-895bba567884",
+        "d7168a7d-a929-4538-b273-22a997e8c9dc"
     ],
     "filterType": "GMSprite",
     "folderName": "Battle Background Sprites",
