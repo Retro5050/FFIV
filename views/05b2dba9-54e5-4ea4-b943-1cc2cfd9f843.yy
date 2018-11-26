@@ -1,8 +1,8 @@
 {
-    "id": "de8cc992-3796-43f8-8070-94d1fda1af9d",
+    "id": "05b2dba9-54e5-4ea4-b943-1cc2cfd9f843",
     "modelName": "GMFolder",
     "mvc": "1.1",
-    "name": "de8cc992-3796-43f8-8070-94d1fda1af9d",
+    "name": "05b2dba9-54e5-4ea4-b943-1cc2cfd9f843",
     "children": [
         "f229f675-0cf8-4c73-b6c6-b38ecfc67e97",
         "d255b1be-4c59-45d9-be5d-81b6665a212f",
@@ -14,7 +14,7 @@
         "221f2778-81da-46b9-8ebd-d8ede080cca1"
     ],
     "filterType": "GMRoom",
-    "folderName": "Baron",
+    "folderName": "Baron Sprites",
     "isDefaultView": false,
     "localisedFolderName": ""
 }

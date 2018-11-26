@@ -1,14 +1,14 @@
 {
-    "id": "c5a7f697-2903-446f-bcdb-066bb2037a04",
+    "id": "268fe4aa-6aa3-44e3-ba6e-c6547cf7f9f2",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "o_overworld",
+    "name": "o_battle_party",
     "eventList": [
         
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "00000000-0000-0000-0000-000000000000",
+    "parentObjectId": "af72cf5f-b87f-4847-b016-66252ff5090f",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "ca0b3315-ad35-4c2d-a33e-0a96efc6fdab",
+    "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
 }
