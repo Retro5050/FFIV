@@ -19,7 +19,8 @@
         "7d510211-d33b-4d83-9ac0-b6121d52bd29",
         "5734da94-0687-4e9c-a0dd-d185289506ef",
         "8eb89fc0-0f14-407a-bbfb-4588feb21445",
-        "6fdb0889-9317-458b-b498-84e9bab5c491"
+        "6fdb0889-9317-458b-b498-84e9bab5c491",
+        "f66f8954-82d8-4022-9a7f-ae0df25a74ea"
     ],
     "filterType": "GMObject",
     "folderName": "Overworld Objects",
