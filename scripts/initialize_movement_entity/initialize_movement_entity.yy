@@ -1,5 +1,5 @@
 {
-    "id": "6916257e-97e5-421c-8725-8b20a0caef68",
+    "id": "5237e6f2-b099-4040-971a-a9b38bd5145c",
     "modelName": "GMScript",
     "mvc": "1.0",
     "name": "initialize_movement_entity",

@@ -17,4 +17,3 @@ _y_speed += _y_acceleration;
 speed_ = point_distance(0, 0, _x_speed, _y_speed);
 direction_ = point_direction(0, 0, _x_speed, _y_speed);
 speed_ = min(speed_, _max_speed);
-

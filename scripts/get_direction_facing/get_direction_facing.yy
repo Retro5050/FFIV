@@ -1,5 +1,5 @@
 {
-    "id": "88f3f2ba-7284-4cd1-94ba-d5639e638990",
+    "id": "1223cf9f-9860-40aa-a670-58c17044724a",
     "modelName": "GMScript",
     "mvc": "1.0",
     "name": "get_direction_facing",
