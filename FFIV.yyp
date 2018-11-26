@@ -927,14 +927,6 @@
             }
         },
         {
-            "Key": "c5a7f697-2903-446f-bcdb-066bb2037a04",
-            "Value": {
-                "id": "0adadd46-95f4-404e-971b-8eed505d92c1",
-                "resourcePath": "objects\/o_overworld\/o_overworld.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "c902e5fd-b47a-4c00-a7de-cc315924aa79",
             "Value": {
                 "id": "d76c6c74-9cf4-4e64-8992-965a87f2e53a",
