@@ -237,7 +237,7 @@
         }
     ],
     "modelName": "GMRoom",
-    "parentId": "00000000-0000-0000-0000-000000000000",
+    "parentId": "18313621-0f59-4b6a-934c-b63c1005a400",
     "physicsSettings":     {
         "id": "1ef595b6-70a0-49d4-8db6-a421c4c4d779",
         "inheritPhysicsSettings": false,
@@ -250,12 +250,12 @@
     },
     "roomSettings":     {
         "id": "e239971c-8d67-43f5-a892-1ddc25c4d591",
-        "Height": 140,
+        "Height": 512,
         "inheritRoomSettings": false,
         "modelName": "GMRoomSettings",
         "persistent": false,
         "mvc": "1.0",
-        "Width": 241
+        "Width": 512
     },
     "mvc": "1.0",
     "views": [
