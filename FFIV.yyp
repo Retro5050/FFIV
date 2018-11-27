@@ -343,6 +343,14 @@
             }
         },
         {
+            "Key": "3f91040c-cb5c-4299-8ebd-8a602f31a3f1",
+            "Value": {
+                "id": "da77d85d-212f-41c9-88e1-dc194641dbb6",
+                "resourcePath": "scripts\\attack_melee_power\\attack_melee_power.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "41e9caf1-eb6a-4445-a0df-79b3f1633aeb",
             "Value": {
                 "id": "2c4d7dc9-b8aa-4c12-9585-f7b12088831b",
@@ -1103,6 +1111,14 @@
             }
         },
         {
+            "Key": "e04c1b9e-869f-43c1-a35a-8fe4b7f1726b",
+            "Value": {
+                "id": "fe288a5c-ea18-4018-b058-2b71d9d1fd70",
+                "resourcePath": "views\\e04c1b9e-869f-43c1-a35a-8fe4b7f1726b.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "e1055ff2-2b29-44fe-b136-36e096f56010",
             "Value": {
                 "id": "403bae81-cf95-4640-abb6-60812cd67496",
@@ -1295,6 +1311,14 @@
             }
         },
         {
+            "Key": "fe6674ee-ad57-4840-98d9-05e5edcaecd9",
+            "Value": {
+                "id": "2f4d4e0f-68c3-4323-b1f7-7da6b9fce665",
+                "resourcePath": "scripts\\initialize_battle_stats\\initialize_battle_stats.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "feaa1103-f9d6-4018-810d-d19cff1ee809",
             "Value": {
                 "id": "4d32f29c-8a58-444a-836c-e45e035d098d",
@@ -1327,7 +1351,9 @@
         "2347a918-2eb4-4a3a-a948-c77f6a307a02",
         "1223cf9f-9860-40aa-a670-58c17044724a",
         "11820858-b696-43bc-b2c6-b2577ede5f6b",
-        "09f49369-ef7f-4df3-b4b4-769c080c5f72"
+        "09f49369-ef7f-4df3-b4b4-769c080c5f72",
+        "3f91040c-cb5c-4299-8ebd-8a602f31a3f1",
+        "fe6674ee-ad57-4840-98d9-05e5edcaecd9"
     ],
     "tutorial": ""
 }
