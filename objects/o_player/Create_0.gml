@@ -7,13 +7,6 @@ direction_ = 0;
 
 global.player_health = 4;
 
-enum item {
-	sword,
-	potion,
-	spell,
-	note
-}
-
 enum player {
 	move
 }
