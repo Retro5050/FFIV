@@ -343,6 +343,14 @@
             }
         },
         {
+            "Key": "3b14c222-62ef-424e-81bd-f3e3185cc14b",
+            "Value": {
+                "id": "3c655c86-0844-40de-ab84-40ebde02778d",
+                "resourcePath": "objects\\o_goblin\\o_goblin.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3b2c6095-ec36-41b2-a518-b454eb898b49",
             "Value": {
                 "id": "4a7cf875-2724-422d-be96-d930f62fe622",
