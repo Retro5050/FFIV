@@ -14,7 +14,7 @@
         "221f2778-81da-46b9-8ebd-d8ede080cca1"
     ],
     "filterType": "GMRoom",
-    "folderName": "Baron Sprites",
+    "folderName": "Baron Rooms",
     "isDefaultView": false,
     "localisedFolderName": ""
 }

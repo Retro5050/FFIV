@@ -20,7 +20,6 @@
         "f19934cc-8097-4ae7-8866-4ca08e492011",
         "feaa1103-f9d6-4018-810d-d19cff1ee809",
         "56ba5510-5f82-4f2d-9561-ecb62b96246c",
-        "ca0b3315-ad35-4c2d-a33e-0a96efc6fdab",
         "8b2a3664-e8ca-4c28-913c-bf48e6cf35d4"
     ],
     "filterType": "GMSprite",
