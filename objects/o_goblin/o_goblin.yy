@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "o_goblin",
     "eventList": [
-        
+        {
+            "id": "88e37368-53d1-4c86-89d0-fddb9ef3ba83",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "3b14c222-62ef-424e-81bd-f3e3185cc14b"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -24,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "00000000-0000-0000-0000-000000000000",
+    "spriteId": "011d2ddf-dd94-4bfd-8234-b5906909aa7e",
     "visible": true
 }
