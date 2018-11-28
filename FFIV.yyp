@@ -1255,6 +1255,14 @@
             }
         },
         {
+            "Key": "ed72e276-21b0-4311-aa93-9fd8952747a2",
+            "Value": {
+                "id": "138e6548-72a1-430f-a5f8-b692d80c1415",
+                "resourcePath": "sprites\\s_enemy_imp\\s_enemy_imp.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "eef0c1ff-88b7-4ec5-a5ae-4bc6d2714862",
             "Value": {
                 "id": "c0a1f994-1608-4b6a-bc74-42dc789563fe",
