@@ -1175,6 +1175,14 @@
             }
         },
         {
+            "Key": "dd6116f7-b8b4-4683-8e2f-bc85faa44126",
+            "Value": {
+                "id": "a1afac83-0f45-41e9-a061-fa4c5b8d4c0a",
+                "resourcePath": "objects\\o_battle_cecil\\o_battle_cecil.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "dd9c5328-1396-4e41-80c7-9f8502b07008",
             "Value": {
                 "id": "766d92dd-500c-4b2d-995c-abb581043bae",
