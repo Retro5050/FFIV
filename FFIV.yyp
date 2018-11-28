@@ -103,6 +103,14 @@
             }
         },
         {
+            "Key": "0881ffca-f984-4261-a75d-0cb911dc0227",
+            "Value": {
+                "id": "5659a2d0-87cf-47ae-a309-d509af6a38e6",
+                "resourcePath": "sprites\\s_overworld_waterfall\\s_overworld_waterfall.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "08dacb4d-769d-4b6d-9dab-57f416137d8e",
             "Value": {
                 "id": "eca2d9bc-d119-4343-a5d0-55b48267a12e",
@@ -324,6 +332,14 @@
                 "id": "8ebf2d04-c2c7-4b7a-8d88-efb158af010b",
                 "resourcePath": "views\/366d47ed-d47b-4964-bf0e-cf897f9525ee.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "379f0303-6a13-45be-9f25-f2d8c5db8c35",
+            "Value": {
+                "id": "3b410af6-2522-49cf-a71d-5b020392b237",
+                "resourcePath": "objects\\o_overworld_waterfall\\o_overworld_waterfall.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -834,7 +850,7 @@
             "Key": "9d7ab64b-cf32-47b7-9bd4-b61caba012c5",
             "Value": {
                 "id": "08e27af0-a2d4-460d-b360-141843179a09",
-                "resourcePath": "sprites\/s_waterfall\/s_waterfall.yy",
+                "resourcePath": "sprites\\s_town_waterfall\\s_town_waterfall.yy",
                 "resourceType": "GMSprite"
             }
         },

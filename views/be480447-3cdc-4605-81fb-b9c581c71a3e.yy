@@ -8,7 +8,8 @@
         "58ac0b9e-6d8a-40b1-b8ab-06d022ccf309",
         "a2b5dc2f-2362-4332-8e10-1e2dbf36069e",
         "83995e43-2080-4ca0-a748-67bbc2ea33fb",
-        "c146dce3-a583-4d91-b2e6-bd9c42f42f8b"
+        "c146dce3-a583-4d91-b2e6-bd9c42f42f8b",
+        "0881ffca-f984-4261-a75d-0cb911dc0227"
     ],
     "filterType": "GMSprite",
     "folderName": "Decoration Sprites",
