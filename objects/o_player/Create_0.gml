@@ -5,8 +5,6 @@ max_speed_ = 2;
 direction_facing_ = dir.down;
 direction_ = 0;
 
-global.player_health = 4;
-
 enum player {
 	move
 }
@@ -17,6 +15,8 @@ enum dir {
 	left,
 	down
 }
+
+state_ = player.move;
 
 //Sprite move lookup table
 sprite_[player.move, dir.right] = s_knight_run_right;
