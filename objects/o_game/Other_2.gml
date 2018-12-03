@@ -1,1 +1,1 @@
-room_goto(r_overworld);
+room_goto_next();
