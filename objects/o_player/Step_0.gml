@@ -17,6 +17,14 @@ else {
 	add_movement_maxspeed(_input_direction, acceleration_, max_speed_);
 }
 
+if room = r_baron and test == false {
+	if instance_exists(o_player) {
+		show_message("the x position of the player is ");
+		show_message(o_player.x);
+	}
+	test = true;
+}
+
 sprite_index = sprite_[player.move, direction_facing_];
 move_movement_entity(false);
 

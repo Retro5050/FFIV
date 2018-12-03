@@ -583,6 +583,14 @@
             }
         },
         {
+            "Key": "65da8178-2a9a-491f-b9c4-ec98e0c1612d",
+            "Value": {
+                "id": "d008e3fa-9013-4f92-a5b8-9d199f4a322f",
+                "resourcePath": "objects\\o_grass\\o_grass.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "67b8eea3-4451-47a1-bd76-a4d471c1b2e6",
             "Value": {
                 "id": "d7597a19-e175-440b-9fb5-a1b74425e2bc",
