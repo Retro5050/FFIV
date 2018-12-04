@@ -4,7 +4,6 @@ acceleration_ = 2;
 max_speed_ = 2;
 direction_facing_ = dir.down;
 direction_ = 0;
-test = false;
 
 global.player_health = 4;
 
