@@ -3,3 +3,4 @@
 initialize_battle_stats(2,1,1,1,1,100);
 taisuru = instance_find(o_battle_party,0);
 alarm[0] = 60;
+state = "rest"
