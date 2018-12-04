@@ -479,6 +479,14 @@
             }
         },
         {
+            "Key": "51f45855-2d44-4b52-8259-9e46c5865f1f",
+            "Value": {
+                "id": "8368e620-85d6-4ee6-bbe1-419284960913",
+                "resourcePath": "objects\\o_battle_init\\o_battle_init.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "5237e6f2-b099-4040-971a-a9b38bd5145c",
             "Value": {
                 "id": "387b8cc3-1d58-4924-ad8f-0cfc9ff6b854",
@@ -635,6 +643,14 @@
             "Value": {
                 "id": "a4e60bce-970e-4642-8da3-a753b64a9752",
                 "resourcePath": "objects\/o_overworld_16\/o_overworld_16.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "700fa274-f97c-49dc-a7bd-aef3cb34cef2",
+            "Value": {
+                "id": "3d68d738-c071-4e7b-baf3-0151b15fe78c",
+                "resourcePath": "objects\\o_candle\\o_candle.yy",
                 "resourceType": "GMObject"
             }
         },
