@@ -7,7 +7,7 @@
         "ed72e276-21b0-4311-aa93-9fd8952747a2"
     ],
     "filterType": "GMSprite",
-    "folderName": "battle monster sprites",
+    "folderName": "Battle Monster Sprites",
     "isDefaultView": false,
     "localisedFolderName": ""
 }
