@@ -8,5 +8,5 @@ atk_=argument0;
 def_=argument1;
 acc_=argument2;
 evd_=argument3;
-crit = argument4;
-hp = argument5;
+crit_ = argument4;
+hp_ = argument5;
