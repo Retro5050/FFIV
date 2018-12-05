@@ -2,4 +2,5 @@
 // You can write your code in this editor
 
 state = "fight"
-x+=60;
+x+=20;
+alarm[1] = 15;
