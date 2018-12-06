@@ -639,6 +639,14 @@
             }
         },
         {
+            "Key": "6ce2a53e-f73d-43b6-8ac0-eaf1587c16fd",
+            "Value": {
+                "id": "05f83214-dd72-4aaa-8eb0-66c5e78af004",
+                "resourcePath": "sprites\\sprite68\\sprite68.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6fb62430-4057-4789-8fe3-e45b115d15f7",
             "Value": {
                 "id": "8ccd7c52-3899-4a08-b61d-396372a6a050",
@@ -1015,6 +1023,14 @@
             }
         },
         {
+            "Key": "b8a550e3-1c08-4841-9aa2-82904fe0978b",
+            "Value": {
+                "id": "bd2f6445-f083-4934-9e55-7286d0984bbc",
+                "resourcePath": "views\\b8a550e3-1c08-4841-9aa2-82904fe0978b.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "b9cc87d1-4f41-4097-be9b-424b305db140",
             "Value": {
                 "id": "a2828318-11b2-4d55-a4d6-99efdbb1aba9",
@@ -1268,6 +1284,14 @@
                 "id": "1427af15-e8a7-4b82-9120-b8f3733c3d24",
                 "resourcePath": "sprites\/s_baron_inn\/s_baron_inn.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e580becb-e914-4801-a09c-6cbeb1652eed",
+            "Value": {
+                "id": "e911560b-fc5e-47cb-a035-2615f1dfa4c0",
+                "resourcePath": "objects\\battle_rectangle\\battle_rectangle.yy",
+                "resourceType": "GMObject"
             }
         },
         {

@@ -1,28 +1,18 @@
 {
-    "id": "4c7129d4-7137-4461-91e6-5805af4aceb0",
+    "id": "e580becb-e914-4801-a09c-6cbeb1652eed",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "o_battle_entity",
+    "name": "battle_rectangle",
     "eventList": [
         {
-            "id": "b8319ce7-c47f-461f-b27d-ddb57cfae32d",
+            "id": "78ddd936-34b6-4b24-8047-f1da608fa36c",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "4c7129d4-7137-4461-91e6-5805af4aceb0"
-        },
-        {
-            "id": "3f931b68-d28c-4d8d-a91a-516709045dbc",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 1,
-            "eventtype": 3,
-            "m_owner": "4c7129d4-7137-4461-91e6-5805af4aceb0"
+            "m_owner": "e580becb-e914-4801-a09c-6cbeb1652eed"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -43,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "00000000-0000-0000-0000-000000000000",
+    "spriteId": "6ce2a53e-f73d-43b6-8ac0-eaf1587c16fd",
     "visible": true
 }
