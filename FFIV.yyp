@@ -554,7 +554,7 @@
             "Key": "5783f824-31cc-42a4-82a3-3fcc7ba7dc47",
             "Value": {
                 "id": "c3cd9fc4-609e-489e-a683-a4b235b2e119",
-                "resourcePath": "sprites\\sprite70\\sprite70.yy",
+                "resourcePath": "sprites\\bird\\bird.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1459,6 +1459,14 @@
             "Value": {
                 "id": "4295def6-19a0-42c5-ae65-9858288550e9",
                 "resourcePath": "sprites\/s_battle_plains\/s_battle_plains.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f86326fe-69ed-43f9-8e5c-b35b143c50ba",
+            "Value": {
+                "id": "76e1ba76-5dd2-43b8-afe5-cfbe2f425b13",
+                "resourcePath": "sprites\\sprite71\\sprite71.yy",
                 "resourceType": "GMSprite"
             }
         },
