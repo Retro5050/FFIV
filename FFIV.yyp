@@ -271,6 +271,14 @@
             }
         },
         {
+            "Key": "2782ef45-e665-416a-85f0-cb07cf9eaaf1",
+            "Value": {
+                "id": "d5577437-8732-4f45-a41f-efdaa4c289aa",
+                "resourcePath": "sprites\\JACKSON\\JACKSON.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "29d9fc90-31e7-4a9b-9ac2-0d73f744763e",
             "Value": {
                 "id": "5bd91aca-7966-4fb1-b8cb-824166c10ee3",
