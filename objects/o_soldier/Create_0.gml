@@ -1,0 +1,1 @@
+text_ = "I am a soldier.";
