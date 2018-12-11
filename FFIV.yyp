@@ -607,6 +607,14 @@
             }
         },
         {
+            "Key": "62497367-06f8-49d6-925e-7c90ad5255cf",
+            "Value": {
+                "id": "78197c3d-5562-4f38-838c-41ab2bab992a",
+                "resourcePath": "objects\\o_tawtpiha\\o_tawtpiha.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "657378a8-f1a0-4921-98d0-e209a0511f6b",
             "Value": {
                 "id": "c6132d88-c099-4f63-b51d-fff09683287a",
@@ -940,6 +948,14 @@
                 "id": "86285da3-1e1e-4e64-b1bb-81f48df9e831",
                 "resourcePath": "scripts\/add_movement_maxspeed\/add_movement_maxspeed.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "a2896498-80e8-43c2-a475-2f2cc6bff75e",
+            "Value": {
+                "id": "0340bcc8-6c27-485b-8fb4-20719cf19ad6",
+                "resourcePath": "sprites\\sprite72\\sprite72.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
