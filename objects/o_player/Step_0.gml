@@ -15,6 +15,17 @@ else {
 	}
 	get_direction_facing(_input_direction);
 	add_movement_maxspeed(_input_direction, acceleration_, max_speed_);
+	
+	/*if o_player.x mod 16 {
+		while(true) {
+			for(n = 0; n<960000; n++) {
+				//o_player.x += 400;
+				add_movement_maxspeed(_input_direction, acceleration_, max_speed_);
+				alarm[0] = .2;//0375;
+			}
+			break;
+		}
+	}*/
 }
 
 sprite_index = sprite_[player.move, direction_facing_];
