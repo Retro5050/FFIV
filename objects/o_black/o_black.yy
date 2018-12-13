@@ -1,8 +1,8 @@
 {
-    "id": "700fa274-f97c-49dc-a7bd-aef3cb34cef2",
+    "id": "6e02b61a-2b74-44b4-80d0-c2dced06369a",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "o_candle",
+    "name": "o_black",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "1efa6f42-0b0b-4f01-a7fe-e7d63e261f6d",
+    "spriteId": "c146dce3-a583-4d91-b2e6-bd9c42f42f8b",
     "visible": true
 }

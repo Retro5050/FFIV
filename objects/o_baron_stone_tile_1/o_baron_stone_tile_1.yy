@@ -1,8 +1,8 @@
 {
-    "id": "700fa274-f97c-49dc-a7bd-aef3cb34cef2",
+    "id": "3e2bbe56-6bf2-40de-8e72-920d0ca5b61d",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "o_candle",
+    "name": "o_baron_stone_tile_1",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "1efa6f42-0b0b-4f01-a7fe-e7d63e261f6d",
+    "spriteId": "f437699c-dc43-4845-86f1-886ba131d9cf",
     "visible": true
 }

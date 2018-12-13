@@ -1,8 +1,8 @@
 {
-    "id": "700fa274-f97c-49dc-a7bd-aef3cb34cef2",
+    "id": "0aaeeb12-d2b5-4504-bdd4-258a8e26e313",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "o_candle",
+    "name": "o_clock",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "1efa6f42-0b0b-4f01-a7fe-e7d63e261f6d",
+    "spriteId": "4196eaa7-8fdd-42b2-b273-67e1659aa215",
     "visible": true
 }

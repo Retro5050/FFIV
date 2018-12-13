@@ -1,8 +1,8 @@
 {
-    "id": "700fa274-f97c-49dc-a7bd-aef3cb34cef2",
+    "id": "2ada9f4b-9dac-41ce-bced-6143ef18522f",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "o_candle",
+    "name": "o_baron_serpent_road_tile_2",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "1efa6f42-0b0b-4f01-a7fe-e7d63e261f6d",
+    "spriteId": "fae1ef25-32a1-4a5c-96fb-b4f13f5531e9",
     "visible": true
 }
