@@ -34,7 +34,8 @@
         "028d05ae-5ef3-483c-bea3-9a8af362ef36",
         "8794f592-5fb9-4873-9f35-280a30510619",
         "b3273367-7512-4c5b-9a4d-d61e289d19e2",
-        "a94ce73d-09fe-4992-bf7f-7abc13b1fcb4"
+        "a94ce73d-09fe-4992-bf7f-7abc13b1fcb4",
+        "9cb6fb9b-2b0a-47c9-bce5-1dadd218886a"
     ],
     "IsDnD": false,
     "layers": [
@@ -127,6 +128,7 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
+{"name": "inst_720BC436","id": "9cb6fb9b-2b0a-47c9-bce5-1dadd218886a","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_720BC436","objId": "85ef69d9-f57b-4aac-8c5d-9c67795b3c2b","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 0,"y": 0},
 {"name": "i_baron_to_weapon_shop","id": "66857bb3-659c-47b6-afb3-ff9ecdaca7df","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "i_baron_to_weapon_shop","objId": "504fa6ac-f72f-4b7e-ac7c-d26003a138fb","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 120,"y": 136},
 {"name": "inst_3E0CD834","id": "7b054d0d-0324-4dfc-b1da-fd70c485d74a","colour": { "Value": 4294967295 },"creationCodeFile": "InstanceCreationCode_inst_3E0CD834.gml","creationCodeType": ".gml","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_3E0CD834","objId": "6fb62430-4057-4789-8fe3-e45b115d15f7","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 112,"y": 176}
             ],
@@ -179,7 +181,7 @@
             "hierarchyFrozen": false,
             "hierarchyVisible": true,
             "hspeed": 0,
-            "htiled": false,
+            "htiled": true,
             "inheritLayerDepth": false,
             "inheritLayerSettings": false,
             "inheritSubLayers": false,
@@ -192,12 +194,12 @@
             "modelName": "GMRBackgroundLayer",
             "mvc": "1.0",
             "spriteId": "c146dce3-a583-4d91-b2e6-bd9c42f42f8b",
-            "stretch": false,
+            "stretch": true,
             "userdefined_animFPS": false,
             "userdefined_depth": false,
             "visible": true,
             "vspeed": 0,
-            "vtiled": false,
+            "vtiled": true,
             "x": 0,
             "y": 0
         }

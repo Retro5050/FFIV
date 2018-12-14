@@ -30,7 +30,8 @@
         "4f5a05a7-4d07-46bd-b232-c8264e3678e7",
         "a71b51a7-a189-4469-bdce-30d5465fc401",
         "7d40d435-9137-4f3a-8686-2579ec0e2c79",
-        "e8eb951f-8e8e-4b86-972f-88816332b33a"
+        "e8eb951f-8e8e-4b86-972f-88816332b33a",
+        "cdde1dce-0668-4e4b-9d27-55d9d7e364f1"
     ],
     "IsDnD": false,
     "layers": [
@@ -119,6 +120,7 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
+{"name": "inst_1F1C1258","id": "cdde1dce-0668-4e4b-9d27-55d9d7e364f1","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_1F1C1258","objId": "85ef69d9-f57b-4aac-8c5d-9c67795b3c2b","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 0,"y": 0},
 {"name": "i_baron_to_rosa_house","id": "cf7d266a-9857-492f-9ca6-fe4fedb838f7","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "i_baron_to_rosa_house","objId": "504fa6ac-f72f-4b7e-ac7c-d26003a138fb","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 152,"y": 120},
 {"name": "inst_27E45D5C","id": "5a944d1e-27ce-4227-9386-580b736ef7df","colour": { "Value": 4294967295 },"creationCodeFile": "InstanceCreationCode_inst_27E45D5C.gml","creationCodeType": ".gml","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_27E45D5C","objId": "6fb62430-4057-4789-8fe3-e45b115d15f7","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 144,"y": 160}
             ],
@@ -171,7 +173,7 @@
             "hierarchyFrozen": false,
             "hierarchyVisible": true,
             "hspeed": 0,
-            "htiled": false,
+            "htiled": true,
             "inheritLayerDepth": false,
             "inheritLayerSettings": false,
             "inheritSubLayers": false,
@@ -184,12 +186,12 @@
             "modelName": "GMRBackgroundLayer",
             "mvc": "1.0",
             "spriteId": "c146dce3-a583-4d91-b2e6-bd9c42f42f8b",
-            "stretch": false,
+            "stretch": true,
             "userdefined_animFPS": false,
             "userdefined_depth": false,
             "visible": true,
             "vspeed": 0,
-            "vtiled": false,
+            "vtiled": true,
             "x": 0,
             "y": 0
         }
