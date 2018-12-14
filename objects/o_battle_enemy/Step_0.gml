@@ -1,6 +1,8 @@
 /// @description Insert description here
 // You can write your code in this editor
-if(state == "fight"){
+stamina_++;
+if(stamina_ == start_stamina_){
 	attack(atk_,acc_,crit_,taisuru);
-	alarm[0]=attack_time;
-	state = "rest";}
+	stamina_ = 0;
+	event_user(0);
+	alarm[0] = 15;}
