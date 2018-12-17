@@ -5,6 +5,9 @@ max_speed_ = 2;
 direction_facing_ = dir.down;
 direction_ = 0;
 counter_ = 0;
+is_moving_ = false;
+x_move_ = 0;
+y_move_ = 0;
 
 global.player_health = 4;
 
