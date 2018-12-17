@@ -14,7 +14,10 @@ else {
 		image_xscale = _x_input;
 	}
 	get_direction_facing(_input_direction);
-	add_movement_maxspeed(_input_direction, acceleration_, max_speed_);
+	
+	for(n = 0; n < 2; n++) {
+		alarm[0] = global.one_second;
+	}
 	
 	/*if o_player.x mod 16 {
 		while(true) {
