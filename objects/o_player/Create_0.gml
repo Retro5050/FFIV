@@ -3,11 +3,6 @@ image_speed = 0;
 acceleration_ = 2;
 max_speed_ = 2;
 direction_facing_ = dir.down;
-direction_ = 0;
-counter_ = 0;
-is_moving_ = false;
-x_move_ = 0;
-y_move_ = 0;
 
 global.player_health = 4;
 
@@ -21,6 +16,8 @@ enum dir {
 	left,
 	down
 }
+starting_state_ = player.move;
+state_ = player.move;
 
 //Sprite move lookup table
 sprite_[player.move, dir.right] = s_knight_run_right;
