@@ -1431,14 +1431,6 @@
             }
         },
         {
-            "Key": "e945ef8b-1172-4277-943d-f0838ec8e976",
-            "Value": {
-                "id": "1617ed92-fbde-49fd-801f-991e7d2615ff",
-                "resourcePath": "scripts\\monster_attack_moving\\monster_attack_moving.yy",
-                "resourceType": "GMScript"
-            }
-        },
-        {
             "Key": "e9b8a67e-d174-48db-8046-a22edaf175cd",
             "Value": {
                 "id": "c3c283ad-d4d8-48f6-9ddc-922c82c5b4bd",
@@ -1666,8 +1658,7 @@
         "09f49369-ef7f-4df3-b4b4-769c080c5f72",
         "3f91040c-cb5c-4299-8ebd-8a602f31a3f1",
         "fe6674ee-ad57-4840-98d9-05e5edcaecd9",
-        "2ad07f26-e6d6-4476-8b2c-9faa6afb7d3b",
-        "e945ef8b-1172-4277-943d-f0838ec8e976"
+        "2ad07f26-e6d6-4476-8b2c-9faa6afb7d3b"
     ],
     "tutorial": ""
 }
