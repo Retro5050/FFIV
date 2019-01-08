@@ -135,6 +135,14 @@
             }
         },
         {
+            "Key": "0aabf69a-e648-4482-9a3c-2167fc8a7ca9",
+            "Value": {
+                "id": "3d100457-92e3-4e90-b304-6bf50e17f119",
+                "resourcePath": "objects\\o_battle_object\\o_battle_object.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0aaeeb12-d2b5-4504-bdd4-258a8e26e313",
             "Value": {
                 "id": "daf1fb5c-a4da-4d07-b203-b4f8c2cf4a7a",
