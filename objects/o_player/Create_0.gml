@@ -7,7 +7,8 @@ direction_facing_ = dir.down;
 global.player_health = 4;
 
 enum player {
-	move
+	move,
+	interact
 }
 
 enum dir {
@@ -24,6 +25,12 @@ sprite_[player.move, dir.right] = s_knight_run_right;
 sprite_[player.move, dir.up] = s_knight_run_up;
 sprite_[player.move, dir.left] = s_knight_run_right;
 sprite_[player.move, dir.down] = s_knight_run_down;
+
+//Sprite interact lookup table
+sprite_[player.interact, dir.right] = s_knight_idle_right;
+sprite_[player.interact, dir.up] = s_knight_idle_up;
+sprite_[player.interact, dir.left] = s_knight_idle_left;
+sprite_[player.interact, dir.down] = s_knight_idle_down;
 
 //image_speed determines how fast your character animates
 //spite_index determines the sprite that is displayed

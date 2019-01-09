@@ -783,11 +783,27 @@
             }
         },
         {
+            "Key": "740f40ea-031b-4312-81b9-002a27c11263",
+            "Value": {
+                "id": "d8bc2b99-a5ff-44f0-8f30-bbda5948d90b",
+                "resourcePath": "sprites\\s_knight_idle_right\\s_knight_idle_right.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "75a5a30f-7312-4a5f-a30b-296638c1a813",
             "Value": {
                 "id": "3472f85c-4bbb-4de8-9132-9a84ece84153",
                 "resourcePath": "objects\\o_birdie\\o_birdie.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "785660f3-e270-40cf-9129-af990d094f1b",
+            "Value": {
+                "id": "3a25e2ca-cc49-48b2-8322-3c806c4576e5",
+                "resourcePath": "sprites\\s_knight_idle_down\\s_knight_idle_down.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -915,6 +931,22 @@
             "Value": {
                 "id": "6446d131-8eb8-49f3-aef4-401db2e8abb1",
                 "resourcePath": "sprites\/s_ocean\/s_ocean.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "8ba603f0-bd8d-4d1a-a202-9a4e63844fd6",
+            "Value": {
+                "id": "afdc5cf1-8b45-4ee5-8930-71e128c76558",
+                "resourcePath": "sprites\\s_knight_idle_left\\s_knight_idle_left.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "8c48b9fd-e25b-4110-ad3f-c243666fbe1b",
+            "Value": {
+                "id": "d2404bec-340c-468e-9882-f9500ecb877d",
+                "resourcePath": "sprites\\s_knight_idle_up\\s_knight_idle_up.yy",
                 "resourceType": "GMSprite"
             }
         },
