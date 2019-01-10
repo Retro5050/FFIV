@@ -1367,6 +1367,14 @@
             }
         },
         {
+            "Key": "dd4596dc-fc8c-40c8-99fc-0cb074fe14f5",
+            "Value": {
+                "id": "2cca68fe-09c7-4bef-85b4-06afffc40c4a",
+                "resourcePath": "sprites\\sprite78\\sprite78.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "dd6116f7-b8b4-4683-8e2f-bc85faa44126",
             "Value": {
                 "id": "a1afac83-0f45-41e9-a061-fa4c5b8d4c0a",
@@ -1412,14 +1420,6 @@
                 "id": "1427af15-e8a7-4b82-9120-b8f3733c3d24",
                 "resourcePath": "sprites\/s_baron_inn\/s_baron_inn.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "e580becb-e914-4801-a09c-6cbeb1652eed",
-            "Value": {
-                "id": "e911560b-fc5e-47cb-a035-2615f1dfa4c0",
-                "resourcePath": "objects\\battle_rectangle\\battle_rectangle.yy",
-                "resourceType": "GMObject"
             }
         },
         {
