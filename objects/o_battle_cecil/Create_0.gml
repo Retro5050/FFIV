@@ -9,3 +9,5 @@ start_crit_ = 1;
 start_stamina_ = 50;
 stamina_ = start_stamina_;
 initialize_battle_stats(start_atk_,start_def_,start_acc_,start_evd_,start_crit_,start_hp_);
+
+name = "Cecil";
