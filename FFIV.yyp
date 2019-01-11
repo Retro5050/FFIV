@@ -1023,6 +1023,14 @@
             }
         },
         {
+            "Key": "93baddf6-cc33-4d64-96d0-7e6c5623fca2",
+            "Value": {
+                "id": "6da0bc2e-5707-497a-83c5-022cb73d3e2b",
+                "resourcePath": "objects\\pointer\\pointer.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "95d22a91-2939-45c7-93de-a8ec992fb236",
             "Value": {
                 "id": "5ea93962-d8fc-4c46-a3f7-7598f8345a3b",
