@@ -943,10 +943,26 @@
             }
         },
         {
+            "Key": "89acf5cf-b603-4e9b-b6f4-87084ad47823",
+            "Value": {
+                "id": "87882a72-c135-4d74-8328-d12debdf0cf2",
+                "resourcePath": "objects\\o_text_box\\o_text_box.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "8a125723-ff25-43f7-a836-f3be9f22a290",
             "Value": {
                 "id": "6761fcb5-a3eb-4716-a127-0cfc302a847c",
                 "resourcePath": "views\/8a125723-ff25-43f7-a836-f3be9f22a290.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "8a52abc6-dcbd-4947-8066-a96ba0f0d92d",
+            "Value": {
+                "id": "4c10c8ef-ea57-4f0a-8537-1ed515b5ef2c",
+                "resourcePath": "views\\8a52abc6-dcbd-4947-8066-a96ba0f0d92d.yy",
                 "resourceType": "GMFolder"
             }
         },

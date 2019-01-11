@@ -5,7 +5,7 @@
 
 get_x_y_facing();
 
-if position_meeting(x + x_facing_*10, y + y_facing_*10, o_soldier) {
-	state_ = 2;
+if position_meeting(x + x_facing_*10, y + y_facing_*10, o_npc) {
+	state_ = player.talk;
 }
-state_ = player.move;
+//state_ = player.move;
