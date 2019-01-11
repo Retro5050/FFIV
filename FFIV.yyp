@@ -111,6 +111,14 @@
             }
         },
         {
+            "Key": "085513c1-9f29-42c8-bf14-5f4848c57b08",
+            "Value": {
+                "id": "098f2334-556d-45aa-80dc-3235454a612e",
+                "resourcePath": "sprites\\s_rosa_attack\\s_rosa_attack.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0881ffca-f984-4261-a75d-0cb911dc0227",
             "Value": {
                 "id": "5659a2d0-87cf-47ae-a309-d509af6a38e6",
@@ -671,6 +679,14 @@
             }
         },
         {
+            "Key": "61c15639-fb46-4cda-9c2a-1ac07a412245",
+            "Value": {
+                "id": "7e50d8b6-f287-4c9d-a50d-d10ff015a240",
+                "resourcePath": "views\\61c15639-fb46-4cda-9c2a-1ac07a412245.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "62497367-06f8-49d6-925e-7c90ad5255cf",
             "Value": {
                 "id": "78197c3d-5562-4f38-838c-41ab2bab992a",
@@ -1067,6 +1083,14 @@
             "Value": {
                 "id": "dd4137f8-e19a-44da-b069-b2c4fcb879df",
                 "resourcePath": "sprites\/s_grass\/s_grass.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a2ef637a-0e04-45f0-9af1-072a53fc6084",
+            "Value": {
+                "id": "d360c3a1-9671-46fe-837e-c0f07db499f8",
+                "resourcePath": "sprites\\s_rosa_idle\\s_rosa_idle.yy",
                 "resourceType": "GMSprite"
             }
         },
