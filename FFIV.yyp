@@ -839,6 +839,14 @@
             }
         },
         {
+            "Key": "7c707d1c-0cf9-46e8-9287-ef242a9d38ab",
+            "Value": {
+                "id": "7e01908a-63c5-4c7d-a450-60f89ae27322",
+                "resourcePath": "sprites\\sprite85\\sprite85.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7d510211-d33b-4d83-9ac0-b6121d52bd29",
             "Value": {
                 "id": "0f3c49be-cff4-4430-b16b-d438641af17e",
@@ -1356,6 +1364,14 @@
                 "id": "04655bcb-87af-4571-a142-1d332aac2861",
                 "resourcePath": "sprites\/s_battle_water\/s_battle_water.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d235ad49-9726-4efa-9775-0cae5aa868bc",
+            "Value": {
+                "id": "ff9bddf8-b4d1-4321-95d0-dc07e6ba5b1d",
+                "resourcePath": "objects\\o_battle_rosa\\o_battle_rosa.yy",
+                "resourceType": "GMObject"
             }
         },
         {
