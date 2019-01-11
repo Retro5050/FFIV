@@ -4,8 +4,6 @@ enemies = array_create(2,0);
 enemies[0] = o_birdie;
 enemies[1] = o_goblin;
 
-ds_list_add(global.party, o_battle_rosa);
-
 var p_len=ds_list_size(global.party);
 var party_x_displacement = 150;
 var party_y_displacement = 100/(p_len+1);
