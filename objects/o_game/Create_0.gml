@@ -5,3 +5,4 @@ global.player_start_position = i_baron_to_overworld;
 global.text_box = false;
 global.party = ds_list_create();
 ds_list_add(global.party, o_battle_cecil);
+ds_list_add(global.party, o_battle_rosa);
