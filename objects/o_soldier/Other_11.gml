@@ -1,5 +1,5 @@
 /// @description Talking State
-global.text_box = true;
+//global.text_box = true;
 /*
 while(global.text_box = true) {
 	
