@@ -1,1 +1,1 @@
-num_talk_slides = 2;
+num_talk_slides_ = 10;

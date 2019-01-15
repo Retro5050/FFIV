@@ -1,5 +1,5 @@
 text_box_ = false;
-num_talk_slides = 0;
+num_talk_slides_ = 0;
 
 enum soldier {
 	move,

@@ -1,21 +1,29 @@
 /// @description Talk State
 
-instance_create_layer(self.x-60, self.y-69, "Text", o_text_box);
-var _counter = 0;
-
 with (instance_nearest(self.x, self.y, o_npc)) {
-	var _num_slides = help.num_talk_slides;
+	var _num_slides = help.num_talk_slides_;
+}//FIGURE THIS OUT! HOW TO GET THE BIG BLUE TEXT BOX TO GO AWAY
+
+var _ji = o_input.spacebar_pressed_;
+
+if _ji == true {
+	text_counter_++;
 }
 
-_counter = 0;
-//doesnt work!!!
-while _counter<_num_slides {
+if text_counter_ >= _num_slides {
+	state_ = 0;
+	text_counter_ = 0;
+	instance_destroy("Text");//FIGURE THIS OUT
+}
+
+/*
+while text_counter_<_num_slides {
 	if mouse_check_button(mb_left) {
-		_counter = _counter + 1;
+		text_counter_ = text_counter_ + 1;
 	}
-	if _counter ==0 {
+	if text_counter_ ==0 {
 		exit;
 	}
 }
-show_message("reahes move state again");
+show_message("reaches move state again");
 state_ = 0;
