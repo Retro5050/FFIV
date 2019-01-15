@@ -9,7 +9,7 @@ menu_options = array_create(3);
 menu_options[0] = "attack";
 menu_options[1] = "magic";
 menu_options[2] = "block";
-pointer_ = instance_create_layer(x,y,layer,pointer);
+pointer_ = instance_create_depth(x+5,y+5,-1,pointer);
 
 current_character = noone;
 var p_len=ds_list_size(global.party);
