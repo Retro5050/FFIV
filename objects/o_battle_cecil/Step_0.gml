@@ -1,5 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
+if(not o_battle_object.battle_pause)
 if(stamina_<start_stamina_){
 	stamina_++;}
 else{
