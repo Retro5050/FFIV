@@ -1,6 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
-if(not battle_obj.battle_pause){
+if(battle_obj.battle_pause){
+	show_message("battle paused")
 	stamina_++;
 	if(stamina_ == start_stamina_){
 		var targ = instance_find(o_battle_party,irandom(instance_number(o_battle_party)-1))

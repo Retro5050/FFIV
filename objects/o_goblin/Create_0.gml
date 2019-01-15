@@ -12,4 +12,4 @@ event_inherited();
 
 battle_obj = instance_find(o_battle_object,0);
 taisuru = instance_find(o_battle_party,0);
-name = "goblin";
+name = "Goblin";
