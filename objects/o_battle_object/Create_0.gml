@@ -5,13 +5,23 @@ enemies[0] = o_birdie;
 enemies[1] = o_goblin;
 battle_pause = false;
 
-menu_options = array_create(3);
-menu_options[0] = "attack";
-menu_options[1] = "magic";
-menu_options[2] = "block";
-pointer_ = instance_create_depth(x+5,y+5,-1,pointer);
+move_menu = array_create(3);
+move_menu[0] = "Attack";
+move_menu[1] = "Magic";
+move_menu[2] = "Block";
 
-current_character = noone;
+menu_displacement = 80;
+pointer_ = instance_create_depth(x+5,y+5,-1,pointer);
+pointer_.position = 0;
+pointer_.x = menu_displacement-3;
+
+menu_stages = array_create(3)
+menu_stages[0] = "character";
+menu_stages[1] = "move";
+menu_stages[2] = "target";
+stage = 0;
+
+current_character = o_battle_cecil;
 var p_len=ds_list_size(global.party);
 var party_x_displacement = 150;
 var party_y_displacement = 100/(p_len+1);
