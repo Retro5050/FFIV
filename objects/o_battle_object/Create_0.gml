@@ -5,6 +5,7 @@ enemies[0] = o_birdie;
 enemies[1] = o_goblin;
 battle_pause = false;
 
+
 move_menu = array_create(3);
 move_menu[0] = "Attack";
 move_menu[1] = "Magic";
@@ -22,13 +23,13 @@ menu_stages[2] = "target";
 stage = 0;
 
 current_character = o_battle_cecil;
-var p_len=ds_list_size(global.party);
+var p_len=array_length_1d(global.party);
 var party_x_displacement = 150;
 var party_y_displacement = 100/(p_len+1);
 
 var i;
 for(i=0;i<p_len;i++){
-instance_create_layer(party_x_displacement,party_y_displacement*(i+1),layer,ds_list_find_value(global.party,i));
+instance_create_layer(party_x_displacement,party_y_displacement*(i+1),layer,global.party[i]);
 }
 
 var e_len=array_length_1d(enemies);
