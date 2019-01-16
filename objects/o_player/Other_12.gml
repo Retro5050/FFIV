@@ -1,19 +1,19 @@
 /// @description Talk State
 
 with (instance_nearest(self.x, self.y, o_npc)) {
-	var _num_slides = help.num_talk_slides_;
-}//FIGURE THIS OUT! HOW TO GET THE BIG BLUE TEXT BOX TO GO AWAY
+	var _num_slides = self.num_talk_slides_;
+}
 
-var _ji = o_input.spacebar_pressed_;
+var _spacebar_pressed = o_input.spacebar_pressed_;
 
-if _ji == true {
+if _spacebar_pressed == true {
 	text_counter_++;
 }
 
 if text_counter_ >= _num_slides {
 	state_ = 0;
 	text_counter_ = 0;
-	instance_destroy("Text");//FIGURE THIS OUT
+	instance_destroy(text_id_);
 }
 
 /*
