@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "o_text_box",
     "eventList": [
-        
+        {
+            "id": "5c0b4feb-c6a4-49f8-86f6-8803b887264b",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 73,
+            "eventtype": 8,
+            "m_owner": "89acf5cf-b603-4e9b-b6f4-87084ad47823"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
