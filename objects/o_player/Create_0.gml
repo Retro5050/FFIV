@@ -7,6 +7,7 @@ x_facing_ = 0;
 y_facing_ = 1;
 text_counter_ = 0;
 text_id_ = 0;
+num_slides_ = 0;
 
 global.player_health = 4;
 

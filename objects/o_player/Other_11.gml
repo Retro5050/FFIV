@@ -6,8 +6,13 @@
 get_x_y_facing();
 
 if position_meeting(x + x_facing_*10, y + y_facing_*10, o_npc) {
+	
+	with (instance_nearest(self.x, self.y, o_npc)) {
+		 num_slides_ = self.num_talk_slides_;
+		 obj_id_ = self.id;
+	}
+	
 	state_ = player.talk;
 	text_id_ = instance_create_layer(self.x-60, self.y-69, "Text", o_text_box);
-	show_message(text_id_);
 }
 //state_ = player.move;
