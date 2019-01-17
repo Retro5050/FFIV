@@ -3,6 +3,10 @@
 enemies = array_create(2,0);
 enemies[0] = o_birdie;
 enemies[1] = o_goblin;
+
+characters = clean_party();
+	
+	
 battle_pause = false;
 
 
@@ -10,6 +14,8 @@ move_menu = array_create(3);
 move_menu[0] = "Attack";
 move_menu[1] = "Magic";
 move_menu[2] = "Block";
+
+menu_options =0;
 
 menu_displacement = 80;
 pointer_ = instance_create_depth(x+5,y+5,-1,pointer);
@@ -23,21 +29,28 @@ menu_stages[2] = "target";
 stage = 0;
 
 current_character = o_battle_cecil;
-var p_len=array_length_1d(global.party);
+var p_len=array_length_1d(characters);
 var party_x_displacement = 150;
 var party_y_displacement = 100/(p_len+1);
 
-var i;
-for(i=0;i<p_len;i++){
-instance_create_layer(party_x_displacement,party_y_displacement*(i+1),layer,global.party[i]);
+for(var i=0;i<p_len;i++){
+instance_create_layer(party_x_displacement,party_y_displacement*(i+1),layer,characters[i]);
 }
 
 var e_len=array_length_1d(enemies);
 var enemy_x_displacement = 30;
 var enemy_y_displacement = 100/(e_len+1);
 
-var i;
-for(i=0;i<e_len;i++){
+for(var i=0;i<e_len;i++){
 instance_create_layer(enemy_x_displacement,enemy_y_displacement*(i+1),layer,enemies[i]);
 }
 
+//adjusting party
+character_names = array_create(array_length_1d(characters));
+for(var i =0;i<array_length_1d(characters);i++)
+	character_names[i] = characters[i].name;
+
+
+enemy_names = array_create(array_length_1d(enemies));
+for(var i =0;i<array_length_1d(enemies);i++)
+	enemy_names[i] = enemies[i].name;

@@ -16,7 +16,7 @@ global.player_start_position = i_baron_to_overworld;
 global.text_box = false;
 
 //Battle Stuff
-global.party = array_create(5);
+global.party = array_create(5,noone);
 global.party[0]= o_battle_cecil;
 global.party[1]= o_battle_rosa;
 

@@ -6,7 +6,8 @@
     "children": [
         "3f91040c-cb5c-4299-8ebd-8a602f31a3f1",
         "fe6674ee-ad57-4840-98d9-05e5edcaecd9",
-        "2ad07f26-e6d6-4476-8b2c-9faa6afb7d3b"
+        "2ad07f26-e6d6-4476-8b2c-9faa6afb7d3b",
+        "82bc450c-ba6f-434b-a395-3e44c2029697"
     ],
     "filterType": "GMScript",
     "folderName": "Battle Scripts",
