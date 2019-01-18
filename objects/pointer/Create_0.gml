@@ -2,5 +2,6 @@
 // You can write your code in this editor
 selected_text = "";
 visible_ = true;
-alarm[0] = 30;
+flippy_time = 15;
+alarm[0] = flippy_time;
 position = -1;

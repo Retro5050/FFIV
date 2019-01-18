@@ -1,6 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-if(not o_battle_object.battle_pause)
+if(battle_obj.battle_pause){
 if(stamina_<start_stamina_){
 	stamina_++;}
 else{
@@ -12,4 +12,4 @@ if (mouse_check_button(mb_left)){
 			stamina_ = 0;
 			x-=20;}}
 }
-if(stamina_ == 1) x+=20;
+if(stamina_ == 1) x+=20;}

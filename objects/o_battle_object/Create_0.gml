@@ -5,52 +5,55 @@ enemies[0] = o_birdie;
 enemies[1] = o_goblin;
 
 characters = clean_party();
-	
-	
-battle_pause = false;
 
-
-move_menu = array_create(3);
-move_menu[0] = "Attack";
-move_menu[1] = "Magic";
-move_menu[2] = "Block";
-
-menu_options =0;
-
-menu_displacement = 80;
-pointer_ = instance_create_depth(x+5,y+5,-1,pointer);
-pointer_.position = 0;
-pointer_.x = menu_displacement-3;
-
-menu_stages = array_create(3)
-menu_stages[0] = "character";
-menu_stages[1] = "move";
-menu_stages[2] = "target";
-stage = 0;
-
-current_character = o_battle_cecil;
 var p_len=array_length_1d(characters);
 var party_x_displacement = 150;
 var party_y_displacement = 100/(p_len+1);
 
+character_instances = array_create(p_len);
 for(var i=0;i<p_len;i++){
-instance_create_layer(party_x_displacement,party_y_displacement*(i+1),layer,characters[i]);
+character_instances[i] = instance_create_layer(party_x_displacement,party_y_displacement*(i+1),layer,characters[i]);
 }
 
 var e_len=array_length_1d(enemies);
 var enemy_x_displacement = 30;
 var enemy_y_displacement = 100/(e_len+1);
 
+enemy_instances = array_create(e_len);
 for(var i=0;i<e_len;i++){
-instance_create_layer(enemy_x_displacement,enemy_y_displacement*(i+1),layer,enemies[i]);
+enemy_instances[i] = instance_create_layer(enemy_x_displacement,enemy_y_displacement*(i+1),layer,enemies[i]);
 }
 
 //adjusting party
-character_names = array_create(array_length_1d(characters));
-for(var i =0;i<array_length_1d(characters);i++)
+
+character_names = array_create(p_len);
+for(var i =0;i<p_len;i++)
 	character_names[i] = characters[i].name;
 
 
-enemy_names = array_create(array_length_1d(enemies));
-for(var i =0;i<array_length_1d(enemies);i++)
+enemy_names = array_create(e_len);
+for(var i =0;i<e_len;i++)
 	enemy_names[i] = enemies[i].name;
+
+move_menu = array_create(4);
+move_menu[0] = "Attack";
+move_menu[1] = "Magic";
+move_menu[2] = "Block";
+move_menu[3] = "Item";
+
+enum menu_stages{
+	character,
+	move,
+	target}
+stage = menu_stages.character;
+menu_options = character_names
+
+menu_displacement = 80;
+pointer_ = instance_create_depth(x+5,y+5,-1,pointer);
+pointer_.position = 0;
+pointer_.x = menu_displacement-3;
+
+battle_pause = false;
+current_character = noone;
+move_type = 0;
+target_entity = 0;
