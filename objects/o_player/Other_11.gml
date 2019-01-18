@@ -14,4 +14,7 @@ if position_meeting(x + x_facing_*10, y + y_facing_*10, o_npc) {
 	state_ = player.talk;
 	text_id_ = instance_create_layer(self.x-60, self.y-69, "Text", o_text_box);
 }
-//state_ = player.move;
+
+if position_meeting(x + x_facing_*10, y + y_facing_*10, o_shop) {
+	text_id_ = instance_create_layer(self.x-60, self.y-69, "Instances", o_text_box);
+}//fix instances
