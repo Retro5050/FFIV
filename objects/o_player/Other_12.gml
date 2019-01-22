@@ -7,7 +7,7 @@ if _spacebar_pressed == true {
 }
 
 if text_counter_ >= num_slides_ {
-	state_ = 0;
+	state_ = player.move;
 	text_counter_ = 0;
 	instance_destroy(text_id_);
 }

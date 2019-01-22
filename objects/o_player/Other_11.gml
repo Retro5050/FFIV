@@ -15,6 +15,10 @@ if position_meeting(x + x_facing_*10, y + y_facing_*10, o_npc) {
 	text_id_ = instance_create_layer(self.x-60, self.y-69, "Text", o_text_box);
 }
 
-if position_meeting(x + x_facing_*10, y + y_facing_*10, o_shop) {
-	text_id_ = instance_create_layer(self.x-60, self.y-69, "Instances", o_text_box);
-}//fix instances
+else if position_meeting(x + x_facing_*10, y + y_facing_*10, o_shop) {
+	//with shop owner what type of shop 
+	state_ = player.shop;
+	text_id_ = instance_create_layer(self.x-60, self.y-69, "Text", o_text_box);
+}
+
+else state_ = player.move;

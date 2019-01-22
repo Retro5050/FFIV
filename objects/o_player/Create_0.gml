@@ -8,13 +8,22 @@ y_facing_ = 1;
 text_counter_ = 0;
 text_id_ = 0;
 num_slides_ = 0;
+action_ = 0;
+
 
 global.player_health = 4;
 
 enum player {
 	move,
 	interact,
-	talk
+	talk,
+	shop
+}
+
+enum action {
+	buy,
+	sell,
+	leave
 }
 
 enum dir {
@@ -43,6 +52,12 @@ sprite_[player.talk, dir.right] = s_knight_idle_right;
 sprite_[player.talk, dir.up] = s_knight_idle_up;
 sprite_[player.talk, dir.left] = s_knight_idle_right;
 sprite_[player.talk, dir.down] = s_knight_idle_down;
+
+//Sprite shop lookup table
+sprite_[player.shop, dir.right] = s_knight_idle_right;
+sprite_[player.shop, dir.up] = s_knight_idle_up;
+sprite_[player.shop, dir.left] = s_knight_idle_right;
+sprite_[player.shop, dir.down] = s_knight_idle_down;
 
 //image_speed determines how fast your character animates
 //spite_index determines the sprite that is displayed
