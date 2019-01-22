@@ -43,35 +43,9 @@
     "layers": [
         {
             "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
-            "name": "Text",
-            "id": "8e192698-24e0-4e79-a36c-a7cab0cf2a17",
-            "depth": 0,
-            "grid_x": 32,
-            "grid_y": 32,
-            "hierarchyFrozen": false,
-            "hierarchyVisible": true,
-            "inheritLayerDepth": false,
-            "inheritLayerSettings": false,
-            "inheritSubLayers": false,
-            "inheritVisibility": false,
-            "instances": [
-
-            ],
-            "layers": [
-
-            ],
-            "m_parentID": "00000000-0000-0000-0000-000000000000",
-            "m_serialiseFrozen": false,
-            "modelName": "GMRInstanceLayer",
-            "mvc": "1.0",
-            "userdefined_depth": false,
-            "visible": true
-        },
-        {
-            "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
             "name": "Solid",
             "id": "d9093597-8adc-4aa5-8f74-0162e05ee08a",
-            "depth": 100,
+            "depth": 0,
             "grid_x": 8,
             "grid_y": 8,
             "hierarchyFrozen": true,
@@ -115,7 +89,7 @@
             "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
             "name": "Decorations",
             "id": "d611364c-0ba5-4a65-bee7-ab0d82d81694",
-            "depth": 200,
+            "depth": 100,
             "grid_x": 8,
             "grid_y": 8,
             "hierarchyFrozen": false,
@@ -146,7 +120,7 @@
             "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
             "name": "Instances",
             "id": "0953de26-7add-4337-9883-ec482416467c",
-            "depth": 300,
+            "depth": 200,
             "grid_x": 8,
             "grid_y": 8,
             "hierarchyFrozen": false,
@@ -161,6 +135,32 @@
 {"name": "inst_3E0CD834","id": "7b054d0d-0324-4dfc-b1da-fd70c485d74a","colour": { "Value": 4294967295 },"creationCodeFile": "InstanceCreationCode_inst_3E0CD834.gml","creationCodeType": ".gml","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_3E0CD834","objId": "6fb62430-4057-4789-8fe3-e45b115d15f7","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 112,"y": 176},
 {"name": "inst_54C146D5","id": "d0275ffc-8a89-4edf-88cc-302b2b045be6","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_54C146D5","objId": "b149c3b1-72d3-4611-b64a-7778c4cdf02d","properties": null,"rotation": 0,"scaleX": 2,"scaleY": 1,"mvc": "1.0","x": 80,"y": 88},
 {"name": "inst_93B22AC","id": "ce2e0298-8264-4f06-8c3d-434ae5dd192f","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_93B22AC","objId": "b149c3b1-72d3-4611-b64a-7778c4cdf02d","properties": null,"rotation": 0,"scaleX": 2,"scaleY": 1,"mvc": "1.0","x": 144,"y": 88}
+            ],
+            "layers": [
+
+            ],
+            "m_parentID": "00000000-0000-0000-0000-000000000000",
+            "m_serialiseFrozen": false,
+            "modelName": "GMRInstanceLayer",
+            "mvc": "1.0",
+            "userdefined_depth": false,
+            "visible": true
+        },
+        {
+            "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
+            "name": "Text",
+            "id": "8e192698-24e0-4e79-a36c-a7cab0cf2a17",
+            "depth": 300,
+            "grid_x": 32,
+            "grid_y": 32,
+            "hierarchyFrozen": false,
+            "hierarchyVisible": true,
+            "inheritLayerDepth": false,
+            "inheritLayerSettings": false,
+            "inheritSubLayers": false,
+            "inheritVisibility": false,
+            "instances": [
+
             ],
             "layers": [
 
