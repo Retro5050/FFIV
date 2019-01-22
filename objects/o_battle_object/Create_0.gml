@@ -1,6 +1,5 @@
 /// @description Insert description here
 // You can write your code in this editor
-enemies = array_create(2,0);
 enemies[0] = o_birdie;
 enemies[1] = o_goblin;
 
@@ -10,7 +9,6 @@ var p_len=array_length_1d(characters);
 var party_x_displacement = 150;
 var party_y_displacement = 100/(p_len+1);
 
-character_instances = array_create(p_len);
 for(var i=0;i<p_len;i++){
 character_instances[i] = instance_create_layer(party_x_displacement,party_y_displacement*(i+1),layer,characters[i]);
 }
@@ -19,23 +17,19 @@ var e_len=array_length_1d(enemies);
 var enemy_x_displacement = 30;
 var enemy_y_displacement = 100/(e_len+1);
 
-enemy_instances = array_create(e_len);
 for(var i=0;i<e_len;i++){
 enemy_instances[i] = instance_create_layer(enemy_x_displacement,enemy_y_displacement*(i+1),layer,enemies[i]);
 }
 
 //adjusting party
 
-character_names = array_create(p_len);
 for(var i =0;i<p_len;i++)
 	character_names[i] = characters[i].name;
 
 
-enemy_names = array_create(e_len);
 for(var i =0;i<e_len;i++)
 	enemy_names[i] = enemies[i].name;
 
-move_menu = array_create(4);
 move_menu[0] = "Attack";
 move_menu[1] = "Magic";
 move_menu[2] = "Block";

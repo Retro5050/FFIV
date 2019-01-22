@@ -1,12 +1,9 @@
-///@arg attack
-///@arg accuracy
-///@arg critical
+///@arg attacker
 ///@arg target
 
-var target = argument3;
-var crit_pct= argument2/100;
-var acc_pct=argument1/100;
-var atk = argument0;
+var attacker = argument0;
+var target = argument1;
+var atk = attacker.atk_;
 var defense = target.def_;
 /*if(random(1)<=acc_pct){
 	strength-=defense

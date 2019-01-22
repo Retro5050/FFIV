@@ -10,4 +10,5 @@ start_crit_ = 1;
 start_stamina_ = 50;
 event_inherited();
 
+target_ = noone;
 name = "Cecil";
