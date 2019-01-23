@@ -51,3 +51,5 @@ battle_pause = false;
 current_character = noone;
 move_type = 0;
 target_entity = 0;
+
+show_menu = true;

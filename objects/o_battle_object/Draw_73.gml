@@ -9,7 +9,7 @@ for(i = 0; i<instance_number(o_battle_party); i++){
 	with(instance_find(o_battle_party,i)) str = name+":"+string(hp_)+"/"+string(start_hp_)+" ; "+string(stamina_)+"/"+string(start_stamina_)
 	draw_text_transformed(x+160,i*5+y,str,.4,.4,0);}
 	
-//draw_text_transformed(x+menu_displacement,y,current_character.name,.5,.5,0);
+if(show_menu)
 for(i = 0; i<array_length_1d(menu_options); i++){
 	if(i == pointer_.position)pointer_.y = i*10+y+1;
 	draw_text_transformed(x+menu_displacement,i*10+y,menu_options[i],.5,.5,0);}

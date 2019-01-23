@@ -4,7 +4,24 @@
 //	with instance_find(ds_list_find_value(global.party,i),0) if(stamina_ == start_stamina_){
 //	current_character = self;
 //	battle_pause = true;}}
+if(array_length_1d(enemy_instances) != instance_number(o_battle_enemy)){
+	var ka = instance_number(o_battle_enemy);
+	enemy_instances = array_create(ka);
+	enemy_names = array_create(ka);
+	for (var i = 0; i < ka; i++){
+		enemy_instances[i] = instance_find(o_battle_enemy,i);
+		enemy_names[i] = enemy_instances[i].name;}}
 
+
+if(array_length_1d(character_instances) != instance_number(o_battle_party)){
+	var ka = instance_number(o_battle_party);
+	character_instances = array_create(ka);
+	character_names = array_create(ka);
+	for (var i = 0; i < instance_number(o_battle_party); i++){
+		var store = instance_find(o_battle_party,i);
+		character_instances[i] = store;
+		character_names[i] = store.name;}}
+		
 if(keyboard_check_pressed(vk_up)&&pointer_.position>0)pointer_.position--;
 if(keyboard_check_pressed(vk_down)&&pointer_.position<array_length_1d(menu_options)-1)pointer_.position++;
 if(keyboard_check_pressed(vk_enter)){
@@ -31,19 +48,3 @@ if(keyboard_check_pressed(vk_enter)){
 	}
 	pointer_.position = 0;
 }
-if(array_length_1d(enemy_instances) != instance_number(o_battle_enemy)){
-	var ka = instance_number(o_battle_enemy);
-	enemy_instances = array_create(ka);
-	enemy_names = array_create(ka);
-	for (var i = 0; i < ka; i++){
-		enemy_instances[i] = instance_find(o_battle_enemy,i);
-		enemy_names[i] = enemy_instances[i].name;}}
-
-
-if(array_length_1d(character_instances) != instance_number(o_battle_party)){
-	var ka = instance_number(o_battle_party);
-	character_instances = array_create(ka);
-	character_names = array_create(ka);
-	for (var i = 0; i < instance_number(o_battle_party); i++){
-		character_instances[i] = instance_find(o_battle_party,i);
-		character_names[i] = character_instances[i].name;}}
