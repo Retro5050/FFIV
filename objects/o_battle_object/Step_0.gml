@@ -8,7 +8,7 @@
 if(keyboard_check_pressed(vk_up)&&pointer_.position>0)pointer_.position--;
 if(keyboard_check_pressed(vk_down)&&pointer_.position<array_length_1d(menu_options)-1)pointer_.position++;
 if(keyboard_check_pressed(vk_enter)){
-	var a = pointer_.position
+	var a = pointer_.position;
 	if(stage = menu_stages.character){
 		current_character = character_instances[a];
 		stage = menu_stages.move;
@@ -23,7 +23,7 @@ if(keyboard_check_pressed(vk_enter)){
 			menu_options = enemy_names;}
 		}
 	else{
-	target_entity = enemies[a]
+	target_entity = enemy_instances[a];
 	current_character.target_ = target_entity;
 	current_character.state_= party_states.active;
 	stage = menu_stages.character;
@@ -31,9 +31,19 @@ if(keyboard_check_pressed(vk_enter)){
 	}
 	pointer_.position = 0;
 }
-for (var i = 0; i < instance_number(o_battle_enemy); i += 1){
-   enemy_instances[i] = instance_find(o_battle_enemy,i);
-   enemy_names[i] = enemy_instances[i].name;}
-for (var i = 0; i < instance_number(o_battle_party); i += 1){
-   character_instances[i] = instance_find(o_battle_party,i);
-   character_names[i] = character_instances[i].name;}
+if(array_length_1d(enemy_instances) != instance_number(o_battle_enemy)){
+	var ka = instance_number(o_battle_enemy);
+	enemy_instances = array_create(ka);
+	enemy_names = array_create(ka);
+	for (var i = 0; i < ka; i++){
+		enemy_instances[i] = instance_find(o_battle_enemy,i);
+		enemy_names[i] = enemy_instances[i].name;}}
+
+
+if(array_length_1d(character_instances) != instance_number(o_battle_party)){
+	var ka = instance_number(o_battle_party);
+	character_instances = array_create(ka);
+	character_names = array_create(ka);
+	for (var i = 0; i < instance_number(o_battle_party); i++){
+		character_instances[i] = instance_find(o_battle_party,i);
+		character_names[i] = character_instances[i].name;}}
