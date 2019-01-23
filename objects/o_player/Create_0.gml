@@ -10,6 +10,10 @@ text_id_ = 0;
 num_slides_ = 0;
 action_ = 0;
 
+current_shop_menu_ = -1;
+menu_array_ = 0;
+reset_shop_menu();
+
 
 global.player_health = 4;
 
@@ -31,6 +35,12 @@ enum dir {
 	up,
 	left,
 	down
+}
+
+enum shop {
+	buy,
+	sell,
+	leave
 }
 starting_state_ = player.move;
 state_ = player.move;

@@ -3,16 +3,20 @@
 var _spacebar_pressed = o_input.spacebar_pressed_;
 
 
-
-//Array with menu options- buy sell exit
-//Interperet array with as many options as possible, when you are buying or selling items
 //Add the pointer object so that you can choose options
-
+//if o_input.down { } 
+//else if o_input.up { }
+//you're doing great Ethan, dont give up. I bet you did well on that physics test!
 
 
 if _spacebar_pressed == true {
-	
+	current_shop_menu_ = shop.leave;
+	load_shop_menu(current_shop_menu_);
 }
+
+
+
+
 
 //if buy
 

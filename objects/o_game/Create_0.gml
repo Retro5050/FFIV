@@ -13,7 +13,6 @@ display_set_gui_size(_view_width, _view_height);
 
 //Ethan
 global.player_start_position = i_baron_to_overworld;
-global.text_box = false;
 
 //Battle Stuff
 global.party = array_create(5,noone);
