@@ -14,7 +14,7 @@ if _action = shop.buy {
 	if room = r_baron_weapon_shop {
 		menu_array_[0] = "Iron Sword - 100 gil";
 		menu_array_[1] = "Mythril Sword - 300 gil";
-		menu_array_[2] = 
+		menu_array_[2] = "Iron Armor - 500 gil";
 	}
 }
 
