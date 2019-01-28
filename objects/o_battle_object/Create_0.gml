@@ -39,8 +39,10 @@ enum menu_stages{
 	character,
 	move,
 	target}
+ready_characters = character_instances;
+rcn = character_names;
 stage = menu_stages.character;
-menu_options = character_names
+menu_options = rcn;
 
 menu_displacement = 80;
 pointer_ = instance_create_depth(x+5,y+5,-1,pointer);
@@ -51,5 +53,4 @@ battle_pause = false;
 current_character = noone;
 move_type = 0;
 target_entity = 0;
-
 show_menu = true;
