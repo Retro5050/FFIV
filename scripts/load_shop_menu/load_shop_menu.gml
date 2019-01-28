@@ -1,11 +1,11 @@
 ///@arg Action
 var _action = argument0;
-
-if _action = shop.sell {
-		
+show_message(_action);
+if current_shop_menu_ = 0 and _action = shop.sell {
+		show_message("this is never played");//THIS IS A SHOW MESSAGE
 }
 
-if _action = shop.buy {
+else if current_shop_menu_ = 0 and _action = shop.buy {
 	if room = r_baron_item_shop {
 			menu_array_[0] = "Potion - 10 gil";
 			menu_array_[1] = "Antidote - 20 gil";
@@ -18,7 +18,7 @@ if _action = shop.buy {
 	}
 }
 
-else {
+else current_shop_menu_ = 0 {
 	reset_shop_menu();
 	state_ = player.move;
 	instance_destroy(text_id_);
