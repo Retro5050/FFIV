@@ -14,5 +14,6 @@ if room = r_baron_item_shop {
 		reset_shop_menu();
 		state_ = player.move;
 		instance_destroy(text_id_);
+		instance_destroy(pointer_id_);
 	}
 }

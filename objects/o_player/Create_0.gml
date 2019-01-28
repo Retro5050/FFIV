@@ -7,12 +7,15 @@ x_facing_ = 0;
 y_facing_ = 1;
 text_counter_ = 0;
 text_id_ = 0;
+pointer_id_ = 0;
 num_slides_ = 0;
 action_ = 0;
 
 current_shop_menu_ = -1;
 menu_array_ = 0;
+current_menu_slide_ = 0;
 reset_shop_menu();
+can_select_ = true;
 
 
 global.player_health = 4;
