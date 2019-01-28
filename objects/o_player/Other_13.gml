@@ -10,7 +10,7 @@ var _spacebar_pressed = o_input.spacebar_pressed_;
 if keyboard_check_pressed(vk_up) and can_select_ {
 	if current_menu_slide_ != 0 {
 		can_select_ = false;
-		alarm[0] = 30;
+		alarm[0] = 15;
 		current_menu_slide_--;
 		
 		with pointer {
