@@ -19,3 +19,5 @@ with o_player {
 }
 
 //should this be in draw end
+
+//I DONT UNDERSTAND. START FROM THE BEGINING AND FOLLOW YOUR CODE
