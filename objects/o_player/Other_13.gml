@@ -30,24 +30,8 @@ else if keyboard_check_pressed(vk_down) and can_select_{
 	}
 }
 else if _spacebar_pressed == true {
-	current_shop_menu_ = current_menu_slide_;
-	load_shop_menu(current_shop_menu_);
+	if current_shop_menu_ == 0 {
+		load_shop_menu(current_menu_slide_);//THIS IS BROKEN. FIND WHERE CURRENT MENU SLIDE IS BEING CALLED
+		current_shop_menu_ = current_menu_slide_;
+	}
 }
-
-
-
-
-
-//if buy
-
-//else if sell
-
-//else exit
-
-
-
-//if text_counter_ >= num_slides_ {
-//	state_ = player.move;
-//	text_counter_ = 0;
-//	instance_destroy(text_id_);
-//}
