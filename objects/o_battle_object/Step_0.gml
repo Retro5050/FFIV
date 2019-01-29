@@ -48,7 +48,8 @@ if(keyboard_check_pressed(vk_enter)){
 		menu_options = move_menu;}
 	else if(stage = menu_stages.move){
 		if(a == 2){
-		//blocking code
+		current_character.state_ = party_states.block;
+		current_character.stamina_ = 0;
 		stage = menu_stages.character;}
 		else{
 			move_type = move_menu[a];
@@ -64,4 +65,16 @@ if(keyboard_check_pressed(vk_enter)){
 	menu_options = rcn;
 	}
 	pointer_.position = 0;
-}}
+}
+if(keyboard_check_pressed(vk_tab)){
+	if(stage == menu_stages.move){
+		current_character = noone;
+		stage = menu_stages.character;
+		menu_options = rcn;}
+		
+	else if(stage == menu_stages.target){
+		move_type = 0;
+		stage = menu_stages.move;
+		menu_options = move_menu;}
+		pointer_.position = 0;}
+}

@@ -1,7 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
 enemies[0] = o_birdie;
-enemies[1] = o_goblin;
 
 characters = clean_party();
 
