@@ -263,6 +263,14 @@
             }
         },
         {
+            "Key": "1b31c05e-58b2-4292-8c09-0f3e53ec9ee1",
+            "Value": {
+                "id": "0544c4ef-3d75-42d3-94c8-4f091617d9ff",
+                "resourcePath": "objects\\o_status_effect\\o_status_effect.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1be7cd56-dd85-429e-b131-b59b7c84f580",
             "Value": {
                 "id": "96cc3244-2b5d-4135-92b4-d86736a0cbbc",
@@ -1156,6 +1164,14 @@
                 "id": "86285da3-1e1e-4e64-b1bb-81f48df9e831",
                 "resourcePath": "scripts\/add_movement_maxspeed\/add_movement_maxspeed.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "a13a5e2e-8360-47e9-a083-cb4eff54ab35",
+            "Value": {
+                "id": "aabd2a3c-2150-4c38-b5ed-b0dd97f846aa",
+                "resourcePath": "objects\\o_block_effect\\o_block_effect.yy",
+                "resourceType": "GMObject"
             }
         },
         {

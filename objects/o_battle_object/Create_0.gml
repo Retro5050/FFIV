@@ -3,7 +3,6 @@
 enemies[0] = o_birdie;
 
 characters = clean_party();
-
 var p_len=array_length_1d(characters);
 var party_x_displacement = 150;
 var party_y_displacement = 100/(p_len+1);

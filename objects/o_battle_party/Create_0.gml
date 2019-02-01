@@ -11,4 +11,5 @@ enum party_states{
 	rest,
 }
 state_ = party_states.rest
+undo_block_hy = false;
 event_inherited();

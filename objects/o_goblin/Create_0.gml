@@ -7,7 +7,6 @@ start_acc_ = 1;
 start_evd_ = 1;
 start_crit_ = 1;
 start_stamina_ = 30;
-stamina_ = 0;
 event_inherited();
 
 battle_obj = instance_find(o_battle_object,0);
