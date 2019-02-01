@@ -15,5 +15,4 @@ if(!battle_obj.show_menu){
 		block_effect.time = start_stamina_;
 		stats[stat_type.defense]*=1.5;
 		ds_list_add(status_effects,block_effect);
-		show_message(string(ds_list_size(status_effects)));
 		state_ = party_states.rest;}}

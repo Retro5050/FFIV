@@ -10,5 +10,4 @@ var defense = target.stats[stat_type.defense];
 	if(random(1)<=crit_pct) strength*=2;
 	if(strength>0)target.hp_-=strength;}*/
 var damage = atk - defense;
-show_message(attacker.name+"; "+ target.name+"; "+string(damage));
-target.hp_-=(damage);
+if(damage>0) target.hp_-=(damage);

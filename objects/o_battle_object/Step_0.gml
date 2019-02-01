@@ -40,7 +40,7 @@ if (stage == menu_stages.character) menu_options = rcn;
 if(show_menu){
 if(keyboard_check_pressed(vk_up)&&pointer_.position>0)pointer_.position--;
 if(keyboard_check_pressed(vk_down)&&pointer_.position<array_length_1d(menu_options)-1)pointer_.position++;
-if(keyboard_check_pressed(vk_enter)){
+if(keyboard_check_pressed(vk_space)){
 	var a = pointer_.position;
 	if(stage = menu_stages.character){
 		current_character = ready_characters[a];
