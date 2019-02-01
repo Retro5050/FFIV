@@ -6,3 +6,4 @@ down_ = keyboard_check(vk_down);
 
 action_one_pressed_ = keyboard_check_pressed(ord("ENTER"));
 spacebar_pressed_ = keyboard_check_pressed(ord(" "));
+escape_pressed_ = keyboard_check_pressed(vk_escape);
