@@ -15,5 +15,11 @@ with o_player {
 		for(var n = 1; n<array_length_1d(menu_array_)+1; n++) {
 			draw_text_transformed(_draw_x+5, _draw_y+10*n, menu_array_[n-1], .4, .4, 0);
 		}
+		
+		if current_shop_menu_ == 2 {
+			for(var n = 1; n<array_length_1d(inventory_)+1; n++) {
+				draw_text_transformed(_draw_x+5, _draw_y+10*n, inventory_[n-1], .4, .4, 0);
+			}
+		}
 	}
 }

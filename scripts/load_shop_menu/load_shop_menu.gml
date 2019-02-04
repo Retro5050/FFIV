@@ -2,9 +2,7 @@
 var _action = argument0;
 
 if _action = shop.sell {
-		menu_array_[0] = "";
-		menu_array_[1] = "";
-		menu_array_[2] = "";
+	
 }
 
 else if _action = shop.buy {

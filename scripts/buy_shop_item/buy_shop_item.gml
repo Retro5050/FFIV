@@ -1,13 +1,9 @@
 ///@arg Item index
 var _index = argument0;
-show_message(array_length_1d(test_)-1);
-if array_length_1d(test_) == 0 {
-	test_[0] = menu_array_[_index];
-}
-else if _index != array_length_1d(test_)-1 {
-	test_[array_length_1d(test_)] = menu_array_[_index];
+
+if array_length_1d(inventory_) == 0 {
+	inventory_[0] = menu_array_[_index];
 }
 else {
-	reset_shop_menu();//left off here
+	inventory_[array_length_1d(inventory_)] = menu_array_[_index];
 }
-show_message(test_);

@@ -40,6 +40,9 @@ else if _spacebar_pressed == true {
 	else if current_shop_menu_ == 1 {
 		buy_shop_item(current_menu_slide_);
 	}
+	else if current_shop_menu_ == 2 {
+		sell_shop_menu(inventory_, current_menu_slide_);
+	}
 }
 else if _escape_pressed == true {
 	reset_shop_menu();

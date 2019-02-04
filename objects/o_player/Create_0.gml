@@ -11,7 +11,7 @@ pointer_id_ = 0;
 num_slides_ = 0;
 action_ = 0;
 
-test_ = pointer_null;
+inventory_ = pointer_null;
 
 current_shop_menu_ = -1;
 menu_array_ = 0;

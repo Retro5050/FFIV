@@ -16,7 +16,6 @@ if position_meeting(x + x_facing_*10, y + y_facing_*10, o_npc) {
 }
 
 else if position_meeting(x + x_facing_*10, y + y_facing_*10, o_shop) {
-	//with shop owner what type of shop - never mind i dont think that's needed
 	state_ = player.shop;
 	pointer_id_ = instance_create_layer(self.x-50, self.y-48, "Text", pointer);
 	text_id_ = instance_create_layer(self.x-60, self.y-69, "Text", o_text_box);
