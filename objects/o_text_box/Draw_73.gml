@@ -1,3 +1,4 @@
+
 /// @description Draws Text
 
 with o_player {
@@ -17,7 +18,11 @@ with o_player {
 		}
 		
 		if current_shop_menu_ == 2 {
+			menu_array_ = pointer_null
 			for(var n = 1; n<array_length_1d(inventory_)+1; n++) {
+				menu_array_[0] = "             ";
+				menu_array_[1] = "             ";
+				menu_array_[2] = "             ";
 				draw_text_transformed(_draw_x+5, _draw_y+10*n, inventory_[n-1], .4, .4, 0);
 			}
 		}

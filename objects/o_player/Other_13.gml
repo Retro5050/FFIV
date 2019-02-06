@@ -16,8 +16,9 @@ if keyboard_check_pressed(vk_up) and can_select_ {
 		}
 	}
 }
+
 else if keyboard_check_pressed(vk_down) and can_select_{
-	if current_menu_slide_ != array_length_1d(menu_array_)-1 {
+	if current_menu_slide_ != 3 {
 		can_select_ = false;
 		alarm[0] = 5;
 		current_menu_slide_++;
@@ -27,6 +28,7 @@ else if keyboard_check_pressed(vk_down) and can_select_{
 		}
 	}
 }
+
 else if _spacebar_pressed == true {
 	if current_shop_menu_ == 0 {
 		load_shop_menu(current_menu_slide_++);
@@ -44,6 +46,7 @@ else if _spacebar_pressed == true {
 		sell_shop_menu(inventory_, current_menu_slide_);
 	}
 }
+
 else if _escape_pressed == true {
 	reset_shop_menu();
 	state_ = player.move;

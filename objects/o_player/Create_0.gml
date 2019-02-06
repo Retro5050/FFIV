@@ -12,6 +12,7 @@ num_slides_ = 0;
 action_ = 0;
 
 inventory_ = pointer_null;
+money_ = 0;
 
 current_shop_menu_ = -1;
 menu_array_ = 0;
