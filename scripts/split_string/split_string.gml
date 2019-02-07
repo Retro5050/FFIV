@@ -10,8 +10,6 @@ for(var n = 0; n<string_length(_str); n++) {
 		_i = n;
 }
 
-var _answer = string_copy(_str, _i+3, string_length(_str)-_i-2);
+var _answer = string_copy(_str, _i+2, string_length(_str)-_i);
 
 return _answer;
-
-//THIS IS WHERE I LEFT OFF HEEEELLLLLPPP

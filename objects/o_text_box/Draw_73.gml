@@ -9,9 +9,12 @@ with o_player {
 		draw_text_transformed(_draw_x, _draw_y, obj_id_.text_slides_[text_counter_], .4, .4, 0);
 	}
 	else if state_ == player.shop {
+		draw_text_transformed(_draw_x, _draw_y-7, money_, .3, .3, 0);
 		if current_shop_menu_ == 0 { draw_text_transformed(_draw_x, _draw_y, "What would you like to do?", .4, .4, 0); }
-		else if current_shop_menu_ == 1 { draw_text_transformed(_draw_x, _draw_y, "Buy anything you'd like!", .4, .4, 0); }
-		else if current_shop_menu_ == 2 { draw_text_transformed(_draw_x, _draw_y, "What would you like to sell?", .4, .4, 0); }
+		else if current_shop_menu_ == 1 and !buy_something_ { draw_text_transformed(_draw_x, _draw_y, "Buy anything you'd like!", .4, .4, 0); }
+		else if current_shop_menu_ == 2 and !sell_something_{ draw_text_transformed(_draw_x, _draw_y, "What would you like to sell?", .4, .4, 0); }
+		else if current_shop_menu_ == 1 and buy_something_ { draw_text_transformed(_draw_x, _draw_y, "Thank you for your purchase.", .4, .4, 0); }
+		else if current_shop_menu_ == 2 and sell_something_ { draw_text_transformed(_draw_x, _draw_y, "Thank you for your item.", .4, .4, 0); }
 		
 		for(var n = 1; n<array_length_1d(menu_array_)+1; n++) {
 			draw_text_transformed(_draw_x+5, _draw_y+10*n, menu_array_[n-1], .4, .4, 0);

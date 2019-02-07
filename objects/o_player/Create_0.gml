@@ -12,7 +12,9 @@ num_slides_ = 0;
 action_ = 0;
 
 inventory_ = pointer_null;
-money_ = 0;
+money_ = 1000;
+buy_something_ = false;
+sell_something_ = false;
 
 current_shop_menu_ = -1;
 menu_array_ = 0;
