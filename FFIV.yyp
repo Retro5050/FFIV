@@ -127,6 +127,14 @@
             }
         },
         {
+            "Key": "075119fe-ef04-4904-b20f-4cb10d64854d",
+            "Value": {
+                "id": "67b5025b-84dd-4240-a33f-47fab510b26d",
+                "resourcePath": "sounds\\a_overworld\\a_overworld.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "075f3c1a-3277-486e-9915-a66bac07b2d1",
             "Value": {
                 "id": "8f90cee3-d5c9-4d45-a372-8e7c33d6e2eb",
