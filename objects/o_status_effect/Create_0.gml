@@ -5,6 +5,7 @@ time = 0;
 affected_stat = -1;
 
 enum stat_type{
+hp,
 strength,
 defense,
 accuracy,

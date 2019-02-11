@@ -5,9 +5,9 @@
     "name": "e04c1b9e-869f-43c1-a35a-8fe4b7f1726b",
     "children": [
         "3f91040c-cb5c-4299-8ebd-8a602f31a3f1",
-        "fe6674ee-ad57-4840-98d9-05e5edcaecd9",
-        "2ad07f26-e6d6-4476-8b2c-9faa6afb7d3b",
-        "82bc450c-ba6f-434b-a395-3e44c2029697"
+        "82bc450c-ba6f-434b-a395-3e44c2029697",
+        "13516356-72e7-4c38-8977-223c674c9b4c",
+        "bc5eaede-6c61-4932-bd62-d2e2c36a612a"
     ],
     "filterType": "GMScript",
     "folderName": "Battle Scripts",
