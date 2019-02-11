@@ -13,14 +13,4 @@ if instance_exists(global.player_start_position) {
 		instance_create_layer(_start_x, _start_y, "Instances", o_player);
 	}
 	global.player_start_position = noone;
-	
-	if room = r_overworld {
-		audio_stop_all();
-		audio_play_sound(a_overworld, 10, true);
-	}
-	
-	if room = r_baron or room = r_baron_inn or room = r_baron_item_shop or room = r_baron_serpent_road or room = r_baron_training_room_1 or room = r_baron_training_room_2 or room = r_baron_weapon_shop {
-		audio_stop_all();
-		audio_play_sound(a_town, 10, true);
-	}
 }
