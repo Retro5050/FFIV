@@ -319,6 +319,14 @@
             }
         },
         {
+            "Key": "204a99d0-ef48-42e4-beac-403c6d65b615",
+            "Value": {
+                "id": "ee8958d1-4317-468e-9d05-6afc5f3614b7",
+                "resourcePath": "objects\\o_battle_action\\o_battle_action.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "21c8476b-8bf9-4770-bc3e-4b3c60aa3aa6",
             "Value": {
                 "id": "91df34f2-9550-4ed9-b3b7-2da9f292d309",
@@ -791,6 +799,14 @@
             }
         },
         {
+            "Key": "671fb8c5-be92-44e1-b12b-e9bfcbbe39d0",
+            "Value": {
+                "id": "cc63b5a2-ce4e-4b27-9fc2-512ffed6b105",
+                "resourcePath": "scripts\\nn_sub\\nn_sub.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "67b8eea3-4451-47a1-bd76-a4d471c1b2e6",
             "Value": {
                 "id": "d7597a19-e175-440b-9fb5-a1b74425e2bc",
@@ -895,6 +911,14 @@
             }
         },
         {
+            "Key": "766fb2d6-c6ec-4ba4-9c95-661cf237c7b7",
+            "Value": {
+                "id": "5083a963-8e8d-450c-a08a-947bc6d224ab",
+                "resourcePath": "objects\\o_enemy_action\\o_enemy_action.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "785660f3-e270-40cf-9129-af990d094f1b",
             "Value": {
                 "id": "3a25e2ca-cc49-48b2-8322-3c806c4576e5",
@@ -908,6 +932,14 @@
                 "id": "3c7a523e-b2a2-415a-8b98-9cef2c011a12",
                 "resourcePath": "sprites\/s_training_room_1\/s_training_room_1.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "7ad07b33-086e-498e-8cd1-16b2de9c421b",
+            "Value": {
+                "id": "6e47b2e8-8c64-4773-b14e-ce5d074b8482",
+                "resourcePath": "scripts\\act_string_setter\\act_string_setter.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -1260,6 +1292,14 @@
                 "id": "2a298365-e454-4f52-b8d7-9ac5b719ed05",
                 "resourcePath": "objects\/o_waterfall\/o_waterfall.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a7e135ec-1491-4687-80f0-4690850af963",
+            "Value": {
+                "id": "1df88b70-9771-42db-ab1f-64c01f0405b5",
+                "resourcePath": "scripts\\add_battle_effect\\add_battle_effect.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -1900,6 +1940,9 @@
         "01837b74-ee60-4876-9879-1b76bed678bc",
         "3f91040c-cb5c-4299-8ebd-8a602f31a3f1",
         "82bc450c-ba6f-434b-a395-3e44c2029697",
+        "a7e135ec-1491-4687-80f0-4690850af963",
+        "671fb8c5-be92-44e1-b12b-e9bfcbbe39d0",
+        "7ad07b33-086e-498e-8cd1-16b2de9c421b",
         "5fd8ff8d-9e9d-4906-ba0e-209a2fe2cfb8",
         "031cfd11-002b-4b6a-9391-fd749ffe4927",
         "c7f6f010-5e82-481d-a1ad-0973ac526871",

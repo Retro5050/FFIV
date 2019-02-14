@@ -6,7 +6,7 @@ var defense = targ.stats[stat_type.defense];
 	strength-=defense
 	if(random(1)<=crit_pct) strength*=2;
 	if(strength>0)target.hp_-=strength;}*/
-var damage = nz_sub(atk,defense);
+var damage = nn_sub(atk,defense);
 targ.stats[stat_type.hp]-=damage;
 stamina_ = 0;
 return damage;

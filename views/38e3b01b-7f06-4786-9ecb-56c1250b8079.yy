@@ -17,7 +17,9 @@
         "1b31c05e-58b2-4292-8c09-0f3e53ec9ee1",
         "2a125c71-a17f-414f-9324-7dcab4a764dd",
         "a13a5e2e-8360-47e9-a083-cb4eff54ab35",
-        "7c7bf06c-e9b4-4364-b878-99a4f148a019"
+        "7c7bf06c-e9b4-4364-b878-99a4f148a019",
+        "204a99d0-ef48-42e4-beac-403c6d65b615",
+        "766fb2d6-c6ec-4ba4-9c95-661cf237c7b7"
     ],
     "filterType": "GMObject",
     "folderName": "Battle Objects",
