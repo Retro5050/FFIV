@@ -2,7 +2,7 @@ global.one_second = game_get_speed(gamespeed_fps);
 instance_create_layer(0, 0, "Instances", o_input);
 
 //Font Creation
-var _font_string = "ABCDEabcdeFGHIJfghijKLMNOklmnoPQRSTpqrstUVWXYuvwxyZ0123z!?%/45678:9'.-";
+var _font_string = "ABCDEabcdeFGHIJfghijKLMNOklmnoPQRSTpqrstUVWXYuvwxyZ0123z!?%/45678:9'.- ";
 global.font = font_add_sprite_ext(s_font, _font_string, true, 1);
 draw_set_font(global.font);
 

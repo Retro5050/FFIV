@@ -6,7 +6,8 @@
     "children": [
         "031cfd11-002b-4b6a-9391-fd749ffe4927",
         "c7f6f010-5e82-481d-a1ad-0973ac526871",
-        "903212d9-f26f-4696-a607-a51263d1e745"
+        "903212d9-f26f-4696-a607-a51263d1e745",
+        "1d661750-658c-44d0-ba29-c6b42d9e58a6"
     ],
     "filterType": "GMScript",
     "folderName": "Shop Scripts",
