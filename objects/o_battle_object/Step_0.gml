@@ -80,7 +80,7 @@ if(keyboard_check_pressed(vk_tab)){
 	if(stage == menu_stages.move){
 		current_character = noone;
 		stage = menu_stages.character;
-		menu_options = rcn;}
+		menu_options = ready_names;}
 		
 	else if(stage == menu_stages.target){
 		move_type = 0;
