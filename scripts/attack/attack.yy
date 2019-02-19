@@ -1,8 +1,8 @@
 {
-    "id": "7ad07b33-086e-498e-8cd1-16b2de9c421b",
+    "id": "c94899ae-91a6-4cd0-9335-5043603fcaa8",
     "modelName": "GMScript",
     "mvc": "1.0",
-    "name": "act_string_setter",
+    "name": "attack",
     "IsCompatibility": false,
     "IsDnD": false
 }

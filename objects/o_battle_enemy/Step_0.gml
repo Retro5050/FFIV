@@ -8,7 +8,7 @@ if(!battle_obj.pause){
 			var act = instance_create_layer(0,0,layer,o_enemy_action);
 			act.character = self;
 			act.action_type = action_types.hit;
-			act_string_setter(act);
+			action_string_setter(act);
 			ds_list_add(battle_obj.waiting_actions,act);
 			//attack(self,targ);
 			//stamina_ = 0;

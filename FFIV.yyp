@@ -239,6 +239,14 @@
             }
         },
         {
+            "Key": "123fcd1b-d59c-4c0d-9848-1deb5fe2a74e",
+            "Value": {
+                "id": "0a4397f5-4691-4812-9dcf-873d9db329ca",
+                "resourcePath": "scripts\\initialize_battle_stats\\initialize_battle_stats.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "12841322-e0e8-47a3-89b0-89abb2577498",
             "Value": {
                 "id": "40f3f944-d821-4874-80cd-4290e72661a7",
@@ -943,14 +951,6 @@
             }
         },
         {
-            "Key": "7ad07b33-086e-498e-8cd1-16b2de9c421b",
-            "Value": {
-                "id": "6e47b2e8-8c64-4773-b14e-ce5d074b8482",
-                "resourcePath": "scripts\\act_string_setter\\act_string_setter.yy",
-                "resourceType": "GMScript"
-            }
-        },
-        {
             "Key": "7b805957-9b15-439e-8731-895bba567884",
             "Value": {
                 "id": "f1a5da01-dbb5-499b-b7f8-5849a195e563",
@@ -1303,14 +1303,6 @@
             }
         },
         {
-            "Key": "a7e135ec-1491-4687-80f0-4690850af963",
-            "Value": {
-                "id": "1df88b70-9771-42db-ab1f-64c01f0405b5",
-                "resourcePath": "scripts\\add_battle_effect\\add_battle_effect.yy",
-                "resourceType": "GMScript"
-            }
-        },
-        {
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
                 "id": "3eb7b301-ef1d-4fd3-8d5a-2c4e086a2b7b",
@@ -1500,6 +1492,14 @@
                 "id": "d76c6c74-9cf4-4e64-8992-965a87f2e53a",
                 "resourcePath": "sprites\/s_overworld_6\/s_overworld_6.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c94899ae-91a6-4cd0-9335-5043603fcaa8",
+            "Value": {
+                "id": "4a6bcba0-753b-4b10-a6c0-2f36c58dde86",
+                "resourcePath": "scripts\\attack\\attack.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -1957,10 +1957,10 @@
         "01837b74-ee60-4876-9879-1b76bed678bc",
         "3f91040c-cb5c-4299-8ebd-8a602f31a3f1",
         "82bc450c-ba6f-434b-a395-3e44c2029697",
-        "a7e135ec-1491-4687-80f0-4690850af963",
-        "7ad07b33-086e-498e-8cd1-16b2de9c421b",
         "bc5eaede-6c61-4932-bd62-d2e2c36a612a",
         "13516356-72e7-4c38-8977-223c674c9b4c",
+        "c94899ae-91a6-4cd0-9335-5043603fcaa8",
+        "123fcd1b-d59c-4c0d-9848-1deb5fe2a74e",
         "5fd8ff8d-9e9d-4906-ba0e-209a2fe2cfb8",
         "031cfd11-002b-4b6a-9391-fd749ffe4927",
         "c7f6f010-5e82-481d-a1ad-0973ac526871",

@@ -54,7 +54,7 @@ if(keyboard_check_pressed(vk_space)){
 			else if(a == 1 and !ip_action.character.spell_has_target)
 				ip_action.action_type = action_types.spell;
 			
-			act_string_setter(ip_action);
+			action_string_setter(ip_action);
 			ds_list_add(waiting_actions,ip_action);
 			var c =ds_list_find_index(ready_characters,ip_action.character);
 			ds_list_delete(ready_characters,c);
@@ -65,7 +65,7 @@ if(keyboard_check_pressed(vk_space)){
 			
 	else if(stage == menu_stages.target){
 	ip_action.character.targ = ds_list_find_value(enemy_instances, a);
-	act_string_setter(ip_action);
+	action_string_setter(ip_action);
 		var c =ds_list_find_index(ready_characters,ip_action.character);
 		ds_list_delete(ready_characters,c);
 		ds_list_delete(ready_names,c);
