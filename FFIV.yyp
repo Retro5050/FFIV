@@ -239,14 +239,6 @@
             }
         },
         {
-            "Key": "123fcd1b-d59c-4c0d-9848-1deb5fe2a74e",
-            "Value": {
-                "id": "0a4397f5-4691-4812-9dcf-873d9db329ca",
-                "resourcePath": "scripts\\initialize_battle_stats\\initialize_battle_stats.yy",
-                "resourceType": "GMScript"
-            }
-        },
-        {
             "Key": "12841322-e0e8-47a3-89b0-89abb2577498",
             "Value": {
                 "id": "40f3f944-d821-4874-80cd-4290e72661a7",
@@ -1495,14 +1487,6 @@
             }
         },
         {
-            "Key": "c94899ae-91a6-4cd0-9335-5043603fcaa8",
-            "Value": {
-                "id": "4a6bcba0-753b-4b10-a6c0-2f36c58dde86",
-                "resourcePath": "scripts\\attack\\attack.yy",
-                "resourceType": "GMScript"
-            }
-        },
-        {
             "Key": "c9849086-5b6d-4109-a232-6eb497eb8455",
             "Value": {
                 "id": "f46b105b-b7a6-4058-87da-454eeb633f30",
@@ -1959,8 +1943,6 @@
         "82bc450c-ba6f-434b-a395-3e44c2029697",
         "bc5eaede-6c61-4932-bd62-d2e2c36a612a",
         "13516356-72e7-4c38-8977-223c674c9b4c",
-        "c94899ae-91a6-4cd0-9335-5043603fcaa8",
-        "123fcd1b-d59c-4c0d-9848-1deb5fe2a74e",
         "5fd8ff8d-9e9d-4906-ba0e-209a2fe2cfb8",
         "031cfd11-002b-4b6a-9391-fd749ffe4927",
         "c7f6f010-5e82-481d-a1ad-0973ac526871",
