@@ -2,11 +2,11 @@
 // You can write your code in this editor
 var i;
 var str;
-for(i = 0; i<instance_number(o_battle_enemy); i++){
-	with (instance_find(o_battle_enemy,i)) str = name+":"+ string(stats[stat_type.hp])+"/"+string(start_hp_)
+for(i = 0; i<ds_list_size(enemy_instances); i++){
+	with (ds_list_find_value(enemy_instances,i)) str = name+":"+ string(stats[stat_type.hp])+"/"+string(start_hp_);
 	draw_text_transformed(x+10,i*5+y,str,.4,.4,0);}
-for(i = 0; i<instance_number(o_battle_party); i++){
-	with(instance_find(o_battle_party,i)) str = name+":"+string(stats[stat_type.hp])+"/"+string(start_hp_)+" ; "+string(stamina_)+"/"+string(start_stamina_)
+for(i = 0; i<ds_list_size(character_instances); i++){
+	with (ds_list_find_value(character_instances,i)) str = name+":"+string(stats[stat_type.hp])+"/"+string(start_hp_)+" ; "+string(stamina_)+"/"+string(start_stamina_);
 	draw_text_transformed(x+160,i*5+y,str,.4,.4,0);}
 	
 if(show_menu){
