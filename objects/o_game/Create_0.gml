@@ -19,4 +19,4 @@ global.party = array_create(5,noone);
 global.party[0]= o_battle_cecil;
 global.party[1]= o_battle_rosa;
 
-//FINISH THE TEXT THING TOMORROW
+//FINISH THE TEXT THING TOMORRO
