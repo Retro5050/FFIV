@@ -247,6 +247,14 @@
             }
         },
         {
+            "Key": "12b3ab84-0246-4601-921b-6c02f81b144d",
+            "Value": {
+                "id": "ffeed4e1-1048-4da1-b45c-b157c10651e0",
+                "resourcePath": "scripts\\start_battle\\start_battle.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "12f4df23-c06e-470c-8ad2-4bd20264ea9e",
             "Value": {
                 "id": "5c2e0565-f04d-444f-987e-a1763991fec9",
@@ -1943,6 +1951,7 @@
         "82bc450c-ba6f-434b-a395-3e44c2029697",
         "bc5eaede-6c61-4932-bd62-d2e2c36a612a",
         "13516356-72e7-4c38-8977-223c674c9b4c",
+        "12b3ab84-0246-4601-921b-6c02f81b144d",
         "5fd8ff8d-9e9d-4906-ba0e-209a2fe2cfb8",
         "031cfd11-002b-4b6a-9391-fd749ffe4927",
         "c7f6f010-5e82-481d-a1ad-0973ac526871",

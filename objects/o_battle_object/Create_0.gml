@@ -40,6 +40,7 @@ menu_displacement = 80;
 pointer_ = instance_create_depth(x+5,y+5,-1,pointer);
 pointer_.position = 0;
 pointer_.x = menu_displacement-3;
+pointer_.y = y+20;
 
 battle_pause = false;
 current_character = noone;
